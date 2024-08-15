@@ -1,0 +1,62 @@
+grupo;codigo;municipio;municipio_merge;Sigla
+Grupo_1 - PropPretos;2929107;São Felipe;São Felipe (BA);BA
+Grupo_1 - PropPretos;2107605;Palmeirândia;Palmeirândia (MA);MA
+Grupo_1 - PropPretos;2914901;Itacaré;Itacaré (BA);BA
+Grupo_1 - PropPretos;2200954;Aroeiras do Itaim;Aroeiras do Itaim (PI);PI
+Grupo_1 - PropPretos;2211357;Várzea Branca;Várzea Branca (PI);PI
+Grupo_1 - PropPretos;2206704;Nazaré do Piauí;Nazaré do Piauí (PI);PI
+Grupo_1 - PropPretos;2902203;Aramari;Aramari (BA);BA
+Grupo_1 - PropPretos;2915007;Itaeté;Itaeté (BA);BA
+Grupo_1 - PropPretos;2933505;Wenceslau Guimarães;Wenceslau Guimarães (BA);BA
+Grupo_1 - PropPretos;2202109;Campinas do Piauí;Campinas do Piauí (PI);PI
+Grupo_1 - PropPretos;2204907;Isaías Coelho;Isaías Coelho (PI);PI
+Grupo_1 - PropPretos;2900801;Alcobaça;Alcobaça (BA);BA
+Grupo_1 - PropPretos;2922201;Muniz Ferreira;Muniz Ferreira (BA);BA
+Grupo_1 - PropPretos;2931202;Taperoá;Taperoá (BA);BA
+Grupo_1 - PropPretos;2900405;Água Fria;Água Fria (BA);BA
+Grupo_1 - PropPretos;2207553;Paquetá;Paquetá (PI);PI
+Grupo_2 - IDH;2202109;Campinas do Piauí;Campinas do Piauí (PI);PI
+Grupo_2 - IDH;2918753;Lagoa Real;Lagoa Real (BA);BA
+Grupo_2 - IDH;2205805;Luzilândia;Luzilândia (PI);PI
+Grupo_2 - IDH;2101970;Boa Vista do Gurupi;Boa Vista do Gurupi (MA);MA
+Grupo_2 - IDH;2201507;Batalha;Batalha (PI);PI
+Grupo_2 - IDH;2922706;Nova Canaã;Nova Canaã (BA);BA
+Grupo_2 - IDH;2106706;Mirador;Mirador (MA);MA
+Grupo_2 - IDH;2615102;Terezinha;Terezinha (PE);PE
+Grupo_2 - IDH;2505709;Dona Inês;Dona Inês (PB);PB
+Grupo_2 - IDH;2106904;Monção;Monção (MA);MA
+Grupo_2 - IDH;2927606;Santa Brígida;Santa Brígida (BA);BA
+Grupo_2 - IDH;2929354;São José da Vitória;São José da Vitória (BA);BA
+Grupo_2 - IDH;2919009;Lajedinho;Lajedinho (BA);BA
+Grupo_2 - IDH;2905107;Caém;Caém (BA);BA
+Grupo_2 - IDH;2202083;Cajueiro da Praia;Cajueiro da Praia (PI);PI
+Grupo_2 - IDH;2101806;Benedito Leite;Benedito Leite (MA);MA
+Grupo_3 - Proximidade;2802809;Indiaroba;Indiaroba (SE);SE
+Grupo_3 - Proximidade;2801702;Cristinápolis;Cristinápolis (SE);SE
+Grupo_3 - Proximidade;2802106;Estância;Estância (SE);SE
+Grupo_3 - Proximidade;2807600;Umbaúba;Umbaúba (SE);SE
+Grupo_3 - Proximidade;2800407;Arauá;Arauá (SE);SE
+Grupo_3 - Proximidade;2807501;Tomar do Geru;Tomar do Geru (SE);SE
+Grupo_3 - Proximidade;2803005;Itabaianinha;Itabaianinha (SE);SE
+Grupo_3 - Proximidade;2805109;Pedrinhas;Pedrinhas (SE);SE
+Grupo_3 - Proximidade;2800670;Boquim;Boquim (SE);SE
+Grupo_3 - Proximidade;2806206;Salgado;Salgado (SE);SE
+Grupo_3 - Proximidade;2803500;Lagarto;Lagarto (SE);SE
+Grupo_3 - Proximidade;2805802;Riachão do Dantas;Riachão do Dantas (SE);SE
+Grupo_3 - Proximidade;2807105;Simão Dias;Simão Dias (SE);SE
+Grupo_3 - Proximidade;2805505;Poço Verde;Poço Verde (SE);SE
+Grupo_3 - Proximidade;2807402;Tobias Barreto;Tobias Barreto (SE);SE
+Grupo_3 - Proximidade;2916500;Itapicuru;Itapicuru (BA);BA
+Grupo_4 - Santa Luzia do Itanhy;2806305;Santa Luzia do Itanhy;Santa Luzia do Itanhy (SE);SE
+Grupo_5 - Isolados;2105658;;;MA
+Grupo_5 - Isolados;2105948;;;MA
+Grupo_5 - Isolados;2400406;;;RN
+Grupo_5 - Isolados;2401651;;;RN
+Grupo_5 - Isolados;2406007;;;RN
+Grupo_5 - Isolados;2407252;;;RN
+Grupo_5 - Isolados;2410009;;;RN
+Grupo_5 - Isolados;2410801;;;RN
+Grupo_5 - Isolados;2413102;;;RN
+Grupo_5 - Isolados;2414456;;;RN
+Grupo_5 - Isolados;2511608;;;PB
+Grupo_5 - Isolados;2926400;;;BA

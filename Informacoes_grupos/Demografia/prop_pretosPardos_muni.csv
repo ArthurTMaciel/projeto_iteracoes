@@ -1,0 +1,3385 @@
+codigo;municipio;cor;valor_pct;Sigla
+2100055;Açailândia;Preta;7.97;MA
+2100055;Açailândia;Parda;64.88;MA
+2100105;Afonso Cunha;Preta;6.68;MA
+2100105;Afonso Cunha;Parda;79.93;MA
+2100154;Água Doce do Maranhão;Preta;1.67;MA
+2100154;Água Doce do Maranhão;Parda;75.22;MA
+2100204;Alcântara;Preta;24.45;MA
+2100204;Alcântara;Parda;60.79;MA
+2100303;Aldeias Altas;Preta;9.39;MA
+2100303;Aldeias Altas;Parda;75.22;MA
+2100402;Altamira do Maranhão;Preta;3.94;MA
+2100402;Altamira do Maranhão;Parda;75.46;MA
+2100436;Alto Alegre do Maranhão;Preta;7.71;MA
+2100436;Alto Alegre do Maranhão;Parda;76.86;MA
+2100477;Alto Alegre do Pindaré;Preta;9.84;MA
+2100477;Alto Alegre do Pindaré;Parda;73.23;MA
+2100501;Alto Parnaíba;Preta;7.45;MA
+2100501;Alto Parnaíba;Parda;78.03;MA
+2100550;Amapá do Maranhão;Preta;3.95;MA
+2100550;Amapá do Maranhão;Parda;78.52;MA
+2100600;Amarante do Maranhão;Preta;4.41;MA
+2100600;Amarante do Maranhão;Parda;64.09;MA
+2100709;Anajatuba;Preta;4.66;MA
+2100709;Anajatuba;Parda;60.42;MA
+2100808;Anapurus;Preta;4.1;MA
+2100808;Anapurus;Parda;79.09;MA
+2100832;Apicum-Açu;Preta;12.93;MA
+2100832;Apicum-Açu;Parda;69.8;MA
+2100873;Araguanã;Preta;13.3;MA
+2100873;Araguanã;Parda;68.45;MA
+2100907;Araioses;Preta;6.08;MA
+2100907;Araioses;Parda;71.97;MA
+2100956;Arame;Preta;7.55;MA
+2100956;Arame;Parda;60.56;MA
+2101004;Arari;Preta;7.54;MA
+2101004;Arari;Parda;57.82;MA
+2101103;Axixá;Preta;10.48;MA
+2101103;Axixá;Parda;74.08;MA
+2101202;Bacabal;Preta;13.95;MA
+2101202;Bacabal;Parda;60.58;MA
+2101251;Bacabeira;Preta;8.38;MA
+2101251;Bacabeira;Parda;66.25;MA
+2101301;Bacuri;Preta;27.56;MA
+2101301;Bacuri;Parda;58.61;MA
+2101350;Bacurituba;Preta;30.53;MA
+2101350;Bacurituba;Parda;61.63;MA
+2101400;Balsas;Preta;8.18;MA
+2101400;Balsas;Parda;67.71;MA
+2101509;Barão de Grajaú;Preta;9.88;MA
+2101509;Barão de Grajaú;Parda;67.56;MA
+2101608;Barra do Corda;Preta;6.01;MA
+2101608;Barra do Corda;Parda;65.09;MA
+2101707;Barreirinhas;Preta;4.34;MA
+2101707;Barreirinhas;Parda;77.38;MA
+2101731;Belágua;Preta;5.58;MA
+2101731;Belágua;Parda;76.1;MA
+2101772;Bela Vista do Maranhão;Preta;9.46;MA
+2101772;Bela Vista do Maranhão;Parda;63.87;MA
+2101806;Benedito Leite;Preta;5.17;MA
+2101806;Benedito Leite;Parda;67.48;MA
+2101905;Bequimão;Preta;18.76;MA
+2101905;Bequimão;Parda;43.32;MA
+2101939;Bernardo do Mearim;Preta;6.19;MA
+2101939;Bernardo do Mearim;Parda;62.64;MA
+2101970;Boa Vista do Gurupi;Preta;6.1;MA
+2101970;Boa Vista do Gurupi;Parda;79.65;MA
+2102002;Bom Jardim;Preta;8.55;MA
+2102002;Bom Jardim;Parda;70.65;MA
+2102036;Bom Jesus das Selvas;Preta;7.58;MA
+2102036;Bom Jesus das Selvas;Parda;74.41;MA
+2102077;Bom Lugar;Preta;7.29;MA
+2102077;Bom Lugar;Parda;67.53;MA
+2102101;Brejo;Preta;9.0;MA
+2102101;Brejo;Parda;71.51;MA
+2102150;Brejo de Areia;Preta;4.17;MA
+2102150;Brejo de Areia;Parda;75.77;MA
+2102200;Buriti;Preta;6.11;MA
+2102200;Buriti;Parda;76.27;MA
+2102309;Buriti Bravo;Preta;13.9;MA
+2102309;Buriti Bravo;Parda;68.36;MA
+2102325;Buriticupu;Preta;6.1;MA
+2102325;Buriticupu;Parda;71.6;MA
+2102358;Buritirana;Preta;4.96;MA
+2102358;Buritirana;Parda;72.47;MA
+2102374;Cachoeira Grande;Preta;4.01;MA
+2102374;Cachoeira Grande;Parda;75.43;MA
+2102408;Cajapió;Preta;7.52;MA
+2102408;Cajapió;Parda;78.25;MA
+2102507;Cajari;Preta;6.93;MA
+2102507;Cajari;Parda;78.19;MA
+2102556;Campestre do Maranhão;Preta;5.42;MA
+2102556;Campestre do Maranhão;Parda;69.57;MA
+2102606;Cândido Mendes;Preta;7.64;MA
+2102606;Cândido Mendes;Parda;72.44;MA
+2102705;Cantanhede;Preta;6.6;MA
+2102705;Cantanhede;Parda;80.63;MA
+2102754;Capinzal do Norte;Preta;7.86;MA
+2102754;Capinzal do Norte;Parda;70.35;MA
+2102804;Carolina;Preta;6.76;MA
+2102804;Carolina;Parda;67.2;MA
+2102903;Carutapera;Preta;2.99;MA
+2102903;Carutapera;Parda;79.23;MA
+2103000;Caxias;Preta;12.95;MA
+2103000;Caxias;Parda;68.09;MA
+2103109;Cedral;Preta;5.87;MA
+2103109;Cedral;Parda;76.68;MA
+2103125;Central do Maranhão;Preta;28.9;MA
+2103125;Central do Maranhão;Parda;60.36;MA
+2103158;Centro do Guilherme;Preta;9.93;MA
+2103158;Centro do Guilherme;Parda;67.74;MA
+2103174;Centro Novo do Maranhão;Preta;6.4;MA
+2103174;Centro Novo do Maranhão;Parda;71.24;MA
+2103208;Chapadinha;Preta;6.74;MA
+2103208;Chapadinha;Parda;68.04;MA
+2103257;Cidelândia;Preta;8.71;MA
+2103257;Cidelândia;Parda;68.34;MA
+2103307;Codó;Preta;13.57;MA
+2103307;Codó;Parda;72.17;MA
+2103406;Coelho Neto;Preta;10.91;MA
+2103406;Coelho Neto;Parda;70.33;MA
+2103505;Colinas;Preta;13.94;MA
+2103505;Colinas;Parda;63.07;MA
+2103554;Conceição do Lago-Açu;Preta;11.97;MA
+2103554;Conceição do Lago-Açu;Parda;68.15;MA
+2103604;Coroatá;Preta;9.8;MA
+2103604;Coroatá;Parda;66.86;MA
+2103703;Cururupu;Preta;18.6;MA
+2103703;Cururupu;Parda;66.85;MA
+2103752;Davinópolis;Preta;8.0;MA
+2103752;Davinópolis;Parda;69.41;MA
+2103802;Dom Pedro;Preta;6.49;MA
+2103802;Dom Pedro;Parda;66.87;MA
+2103901;Duque Bacelar;Preta;5.03;MA
+2103901;Duque Bacelar;Parda;81.02;MA
+2104008;Esperantinópolis;Preta;4.87;MA
+2104008;Esperantinópolis;Parda;71.47;MA
+2104057;Estreito;Preta;5.47;MA
+2104057;Estreito;Parda;66.77;MA
+2104073;Feira Nova do Maranhão;Preta;3.52;MA
+2104073;Feira Nova do Maranhão;Parda;79.65;MA
+2104081;Fernando Falcão;Preta;3.71;MA
+2104081;Fernando Falcão;Parda;48.84;MA
+2104099;Formosa da Serra Negra;Preta;6.7;MA
+2104099;Formosa da Serra Negra;Parda;66.91;MA
+2104107;Fortaleza dos Nogueiras;Preta;9.62;MA
+2104107;Fortaleza dos Nogueiras;Parda;64.24;MA
+2104206;Fortuna;Preta;9.22;MA
+2104206;Fortuna;Parda;68.0;MA
+2104305;Godofredo Viana;Preta;10.86;MA
+2104305;Godofredo Viana;Parda;70.13;MA
+2104404;Gonçalves Dias;Preta;9.56;MA
+2104404;Gonçalves Dias;Parda;63.71;MA
+2104503;Governador Archer;Preta;6.5;MA
+2104503;Governador Archer;Parda;75.94;MA
+2104552;Governador Edison Lobão;Preta;4.98;MA
+2104552;Governador Edison Lobão;Parda;71.7;MA
+2104602;Governador Eugênio Barros;Preta;10.13;MA
+2104602;Governador Eugênio Barros;Parda;72.38;MA
+2104628;Governador Luiz Rocha;Preta;6.88;MA
+2104628;Governador Luiz Rocha;Parda;75.85;MA
+2104651;Governador Newton Bello;Preta;7.1;MA
+2104651;Governador Newton Bello;Parda;76.87;MA
+2104677;Governador Nunes Freire;Preta;7.99;MA
+2104677;Governador Nunes Freire;Parda;75.57;MA
+2104701;Graça Aranha;Preta;8.26;MA
+2104701;Graça Aranha;Parda;69.77;MA
+2104800;Grajaú;Preta;6.75;MA
+2104800;Grajaú;Parda;61.93;MA
+2104909;Guimarães;Preta;12.1;MA
+2104909;Guimarães;Parda;71.9;MA
+2105005;Humberto de Campos;Preta;4.91;MA
+2105005;Humberto de Campos;Parda;80.46;MA
+2105104;Icatu;Preta;7.31;MA
+2105104;Icatu;Parda;83.83;MA
+2105153;Igarapé do Meio;Preta;15.38;MA
+2105153;Igarapé do Meio;Parda;65.31;MA
+2105203;Igarapé Grande;Preta;9.08;MA
+2105203;Igarapé Grande;Parda;63.3;MA
+2105302;Imperatriz;Preta;7.97;MA
+2105302;Imperatriz;Parda;60.11;MA
+2105351;Itaipava do Grajaú;Preta;3.92;MA
+2105351;Itaipava do Grajaú;Parda;69.69;MA
+2105401;Itapecuru Mirim;Preta;8.32;MA
+2105401;Itapecuru Mirim;Parda;75.37;MA
+2105427;Itinga do Maranhão;Preta;7.82;MA
+2105427;Itinga do Maranhão;Parda;63.65;MA
+2105450;Jatobá;Preta;6.75;MA
+2105450;Jatobá;Parda;71.28;MA
+2105476;Jenipapo dos Vieiras;Preta;3.1;MA
+2105476;Jenipapo dos Vieiras;Parda;47.25;MA
+2105500;João Lisboa;Preta;8.81;MA
+2105500;João Lisboa;Parda;64.07;MA
+2105609;Joselândia;Preta;6.88;MA
+2105609;Joselândia;Parda;72.09;MA
+2105658;Junco do Maranhão;Preta;4.53;MA
+2105658;Junco do Maranhão;Parda;76.84;MA
+2105708;Lago da Pedra;Preta;6.25;MA
+2105708;Lago da Pedra;Parda;70.06;MA
+2105807;Lago do Junco;Preta;8.29;MA
+2105807;Lago do Junco;Parda;66.3;MA
+2105906;Lago Verde;Preta;3.41;MA
+2105906;Lago Verde;Parda;75.04;MA
+2105922;Lagoa do Mato;Preta;5.89;MA
+2105922;Lagoa do Mato;Parda;72.06;MA
+2105948;Lago dos Rodrigues;Preta;6.45;MA
+2105948;Lago dos Rodrigues;Parda;66.18;MA
+2105963;Lagoa Grande do Maranhão;Preta;6.34;MA
+2105963;Lagoa Grande do Maranhão;Parda;75.62;MA
+2105989;Lajeado Novo;Preta;7.33;MA
+2105989;Lajeado Novo;Parda;64.18;MA
+2106003;Lima Campos;Preta;15.74;MA
+2106003;Lima Campos;Parda;54.24;MA
+2106102;Loreto;Preta;3.74;MA
+2106102;Loreto;Parda;79.25;MA
+2106201;Luís Domingues;Preta;8.16;MA
+2106201;Luís Domingues;Parda;72.38;MA
+2106300;Magalhães de Almeida;Preta;1.93;MA
+2106300;Magalhães de Almeida;Parda;75.03;MA
+2106326;Maracaçumé;Preta;5.23;MA
+2106326;Maracaçumé;Parda;76.79;MA
+2106359;Marajá do Sena;Preta;10.34;MA
+2106359;Marajá do Sena;Parda;73.02;MA
+2106375;Maranhãozinho;Preta;7.54;MA
+2106375;Maranhãozinho;Parda;66.96;MA
+2106409;Mata Roma;Preta;7.51;MA
+2106409;Mata Roma;Parda;79.93;MA
+2106508;Matinha;Preta;8.15;MA
+2106508;Matinha;Parda;74.68;MA
+2106607;Matões;Preta;8.17;MA
+2106607;Matões;Parda;76.32;MA
+2106631;Matões do Norte;Preta;6.57;MA
+2106631;Matões do Norte;Parda;76.29;MA
+2106672;Milagres do Maranhão;Preta;2.88;MA
+2106672;Milagres do Maranhão;Parda;70.98;MA
+2106706;Mirador;Preta;5.32;MA
+2106706;Mirador;Parda;67.51;MA
+2106755;Miranda do Norte;Preta;7.19;MA
+2106755;Miranda do Norte;Parda;65.72;MA
+2106805;Mirinzal;Preta;12.35;MA
+2106805;Mirinzal;Parda;78.53;MA
+2106904;Monção;Preta;19.14;MA
+2106904;Monção;Parda;64.11;MA
+2107001;Montes Altos;Preta;5.27;MA
+2107001;Montes Altos;Parda;58.95;MA
+2107100;Morros;Preta;4.59;MA
+2107100;Morros;Parda;81.92;MA
+2107209;Nina Rodrigues;Preta;14.82;MA
+2107209;Nina Rodrigues;Parda;66.71;MA
+2107258;Nova Colinas;Preta;7.26;MA
+2107258;Nova Colinas;Parda;72.05;MA
+2107308;Nova Iorque;Preta;12.27;MA
+2107308;Nova Iorque;Parda;65.14;MA
+2107357;Nova Olinda do Maranhão;Preta;10.47;MA
+2107357;Nova Olinda do Maranhão;Parda;69.94;MA
+2107407;Olho d'Água das Cunhãs;Preta;7.53;MA
+2107407;Olho d'Água das Cunhãs;Parda;60.78;MA
+2107456;Olinda Nova do Maranhão;Preta;11.19;MA
+2107456;Olinda Nova do Maranhão;Parda;72.67;MA
+2107506;Paço do Lumiar;Preta;11.19;MA
+2107506;Paço do Lumiar;Parda;63.64;MA
+2107605;Palmeirândia;Preta;15.13;MA
+2107605;Palmeirândia;Parda;69.97;MA
+2107704;Paraibano;Preta;8.94;MA
+2107704;Paraibano;Parda;63.39;MA
+2107803;Parnarama;Preta;7.31;MA
+2107803;Parnarama;Parda;76.44;MA
+2107902;Passagem Franca;Preta;9.63;MA
+2107902;Passagem Franca;Parda;67.75;MA
+2108009;Pastos Bons;Preta;6.75;MA
+2108009;Pastos Bons;Parda;61.43;MA
+2108058;Paulino Neves;Preta;3.42;MA
+2108058;Paulino Neves;Parda;72.11;MA
+2108108;Paulo Ramos;Preta;8.28;MA
+2108108;Paulo Ramos;Parda;70.47;MA
+2108207;Pedreiras;Preta;11.13;MA
+2108207;Pedreiras;Parda;59.73;MA
+2108256;Pedro do Rosário;Preta;17.77;MA
+2108256;Pedro do Rosário;Parda;70.94;MA
+2108306;Penalva;Preta;16.02;MA
+2108306;Penalva;Parda;71.55;MA
+2108405;Peri Mirim;Preta;13.13;MA
+2108405;Peri Mirim;Parda;53.58;MA
+2108454;Peritoró;Preta;9.98;MA
+2108454;Peritoró;Parda;72.4;MA
+2108504;Pindaré-Mirim;Preta;13.5;MA
+2108504;Pindaré-Mirim;Parda;64.56;MA
+2108603;Pinheiro;Preta;11.15;MA
+2108603;Pinheiro;Parda;64.56;MA
+2108702;Pio XII;Preta;7.05;MA
+2108702;Pio XII;Parda;66.87;MA
+2108801;Pirapemas;Preta;8.02;MA
+2108801;Pirapemas;Parda;77.66;MA
+2108900;Poção de Pedras;Preta;3.59;MA
+2108900;Poção de Pedras;Parda;71.81;MA
+2109007;Porto Franco;Preta;5.0;MA
+2109007;Porto Franco;Parda;65.45;MA
+2109056;Porto Rico do Maranhão;Preta;11.91;MA
+2109056;Porto Rico do Maranhão;Parda;71.72;MA
+2109106;Presidente Dutra;Preta;7.0;MA
+2109106;Presidente Dutra;Parda;62.13;MA
+2109205;Presidente Juscelino;Preta;7.64;MA
+2109205;Presidente Juscelino;Parda;84.25;MA
+2109239;Presidente Médici;Preta;12.44;MA
+2109239;Presidente Médici;Parda;70.71;MA
+2109270;Presidente Sarney;Preta;5.68;MA
+2109270;Presidente Sarney;Parda;78.17;MA
+2109304;Presidente Vargas;Preta;6.87;MA
+2109304;Presidente Vargas;Parda;79.65;MA
+2109403;Primeira Cruz;Preta;2.59;MA
+2109403;Primeira Cruz;Parda;76.67;MA
+2109452;Raposa;Preta;7.72;MA
+2109452;Raposa;Parda;67.96;MA
+2109502;Riachão;Preta;8.3;MA
+2109502;Riachão;Parda;71.4;MA
+2109551;Ribamar Fiquene;Preta;4.46;MA
+2109551;Ribamar Fiquene;Parda;67.82;MA
+2109601;Rosário;Preta;6.86;MA
+2109601;Rosário;Parda;77.41;MA
+2109700;Sambaíba;Preta;2.48;MA
+2109700;Sambaíba;Parda;85.89;MA
+2109759;Santa Filomena do Maranhão;Preta;3.34;MA
+2109759;Santa Filomena do Maranhão;Parda;69.49;MA
+2109809;Santa Helena;Preta;14.48;MA
+2109809;Santa Helena;Parda;59.25;MA
+2109908;Santa Inês;Preta;11.01;MA
+2109908;Santa Inês;Parda;63.01;MA
+2110005;Santa Luzia;Preta;8.46;MA
+2110005;Santa Luzia;Parda;71.5;MA
+2110039;Santa Luzia do Paruá;Preta;5.68;MA
+2110039;Santa Luzia do Paruá;Parda;70.2;MA
+2110104;Santa Quitéria do Maranhão;Preta;6.73;MA
+2110104;Santa Quitéria do Maranhão;Parda;73.82;MA
+2110203;Santa Rita;Preta;7.85;MA
+2110203;Santa Rita;Parda;71.6;MA
+2110237;Santana do Maranhão;Preta;2.59;MA
+2110237;Santana do Maranhão;Parda;82.58;MA
+2110278;Santo Amaro do Maranhão;Preta;2.64;MA
+2110278;Santo Amaro do Maranhão;Parda;77.05;MA
+2110302;Santo Antônio dos Lopes;Preta;5.39;MA
+2110302;Santo Antônio dos Lopes;Parda;75.78;MA
+2110401;São Benedito do Rio Preto;Preta;2.41;MA
+2110401;São Benedito do Rio Preto;Parda;77.97;MA
+2110500;São Bento;Preta;23.16;MA
+2110500;São Bento;Parda;58.03;MA
+2110609;São Bernardo;Preta;3.74;MA
+2110609;São Bernardo;Parda;83.5;MA
+2110658;São Domingos do Azeitão;Preta;10.04;MA
+2110658;São Domingos do Azeitão;Parda;63.0;MA
+2110708;São Domingos do Maranhão;Preta;5.9;MA
+2110708;São Domingos do Maranhão;Parda;67.39;MA
+2110807;São Félix de Balsas;Preta;4.54;MA
+2110807;São Félix de Balsas;Parda;69.58;MA
+2110856;São Francisco do Brejão;Preta;6.36;MA
+2110856;São Francisco do Brejão;Parda;70.18;MA
+2110906;São Francisco do Maranhão;Preta;13.25;MA
+2110906;São Francisco do Maranhão;Parda;64.22;MA
+2111003;São João Batista;Preta;9.77;MA
+2111003;São João Batista;Parda;64.09;MA
+2111029;São João do Carú;Preta;9.13;MA
+2111029;São João do Carú;Parda;70.64;MA
+2111052;São João do Paraíso;Preta;5.16;MA
+2111052;São João do Paraíso;Parda;62.11;MA
+2111078;São João do Soter;Preta;11.85;MA
+2111078;São João do Soter;Parda;71.97;MA
+2111102;São João dos Patos;Preta;11.51;MA
+2111102;São João dos Patos;Parda;57.27;MA
+2111201;São José de Ribamar;Preta;10.27;MA
+2111201;São José de Ribamar;Parda;66.36;MA
+2111250;São José dos Basílios;Preta;9.26;MA
+2111250;São José dos Basílios;Parda;70.4;MA
+2111300;São Luís;Preta;12.97;MA
+2111300;São Luís;Parda;56.65;MA
+2111409;São Luís Gonzaga do Maranhão;Preta;12.71;MA
+2111409;São Luís Gonzaga do Maranhão;Parda;65.53;MA
+2111508;São Mateus do Maranhão;Preta;8.25;MA
+2111508;São Mateus do Maranhão;Parda;70.15;MA
+2111532;São Pedro da Água Branca;Preta;6.05;MA
+2111532;São Pedro da Água Branca;Parda;74.2;MA
+2111573;São Pedro dos Crentes;Preta;3.81;MA
+2111573;São Pedro dos Crentes;Parda;73.34;MA
+2111607;São Raimundo das Mangabeiras;Preta;8.15;MA
+2111607;São Raimundo das Mangabeiras;Parda;67.76;MA
+2111631;São Raimundo do Doca Bezerra;Preta;1.6;MA
+2111631;São Raimundo do Doca Bezerra;Parda;76.96;MA
+2111672;São Roberto;Preta;1.91;MA
+2111672;São Roberto;Parda;71.13;MA
+2111706;São Vicente Ferrer;Preta;7.1;MA
+2111706;São Vicente Ferrer;Parda;77.74;MA
+2111722;Satubinha;Preta;9.65;MA
+2111722;Satubinha;Parda;68.14;MA
+2111748;Senador Alexandre Costa;Preta;10.87;MA
+2111748;Senador Alexandre Costa;Parda;72.57;MA
+2111763;Senador La Rocque;Preta;5.45;MA
+2111763;Senador La Rocque;Parda;70.55;MA
+2111789;Serrano do Maranhão;Preta;37.74;MA
+2111789;Serrano do Maranhão;Parda;55.61;MA
+2111805;Sítio Novo;Preta;3.71;MA
+2111805;Sítio Novo;Parda;69.02;MA
+2111904;Sucupira do Norte;Preta;9.68;MA
+2111904;Sucupira do Norte;Parda;63.71;MA
+2111953;Sucupira do Riachão;Preta;8.66;MA
+2111953;Sucupira do Riachão;Parda;72.84;MA
+2112001;Tasso Fragoso;Preta;2.96;MA
+2112001;Tasso Fragoso;Parda;81.81;MA
+2112100;Timbiras;Preta;14.11;MA
+2112100;Timbiras;Parda;69.92;MA
+2112209;Timon;Preta;11.52;MA
+2112209;Timon;Parda;70.72;MA
+2112233;Trizidela do Vale;Preta;8.29;MA
+2112233;Trizidela do Vale;Parda;66.27;MA
+2112274;Tufilândia;Preta;7.54;MA
+2112274;Tufilândia;Parda;75.71;MA
+2112308;Tuntum;Preta;7.52;MA
+2112308;Tuntum;Parda;62.45;MA
+2112407;Turiaçu;Preta;9.65;MA
+2112407;Turiaçu;Parda;76.8;MA
+2112456;Turilândia;Preta;12.73;MA
+2112456;Turilândia;Parda;65.87;MA
+2112506;Tutóia;Preta;3.31;MA
+2112506;Tutóia;Parda;75.06;MA
+2112605;Urbano Santos;Preta;2.8;MA
+2112605;Urbano Santos;Parda;80.73;MA
+2112704;Vargem Grande;Preta;6.45;MA
+2112704;Vargem Grande;Parda;79.63;MA
+2112803;Viana;Preta;10.03;MA
+2112803;Viana;Parda;67.29;MA
+2112852;Vila Nova dos Martírios;Preta;8.27;MA
+2112852;Vila Nova dos Martírios;Parda;67.69;MA
+2112902;Vitória do Mearim;Preta;5.8;MA
+2112902;Vitória do Mearim;Parda;66.37;MA
+2113009;Vitorino Freire;Preta;5.95;MA
+2113009;Vitorino Freire;Parda;71.6;MA
+2114007;Zé Doca;Preta;8.88;MA
+2114007;Zé Doca;Parda;70.25;MA
+2200053;Acauã;Preta;9.12;PI
+2200053;Acauã;Parda;19.37;PI
+2200103;Agricolândia;Preta;10.12;PI
+2200103;Agricolândia;Parda;72.45;PI
+2200202;Água Branca;Preta;6.57;PI
+2200202;Água Branca;Parda;68.76;PI
+2200251;Alagoinha do Piauí;Preta;7.47;PI
+2200251;Alagoinha do Piauí;Parda;37.98;PI
+2200277;Alegrete do Piauí;Preta;2.49;PI
+2200277;Alegrete do Piauí;Parda;53.74;PI
+2200301;Alto Longá;Preta;7.36;PI
+2200301;Alto Longá;Parda;71.1;PI
+2200400;Altos;Preta;5.29;PI
+2200400;Altos;Parda;78.39;PI
+2200459;Alvorada do Gurguéia;Preta;13.62;PI
+2200459;Alvorada do Gurguéia;Parda;65.06;PI
+2200509;Amarante;Preta;24.54;PI
+2200509;Amarante;Parda;62.27;PI
+2200608;Angical do Piauí;Preta;11.4;PI
+2200608;Angical do Piauí;Parda;66.92;PI
+2200707;Anísio de Abreu;Preta;4.88;PI
+2200707;Anísio de Abreu;Parda;69.42;PI
+2200806;Antônio Almeida;Preta;12.87;PI
+2200806;Antônio Almeida;Parda;65.08;PI
+2200905;Aroazes;Preta;13.12;PI
+2200905;Aroazes;Parda;68.86;PI
+2200954;Aroeiras do Itaim;Preta;11.85;PI
+2200954;Aroeiras do Itaim;Parda;61.33;PI
+2201002;Arraial;Preta;19.44;PI
+2201002;Arraial;Parda;64.83;PI
+2201051;Assunção do Piauí;Preta;7.77;PI
+2201051;Assunção do Piauí;Parda;65.46;PI
+2201101;Avelino Lopes;Preta;5.21;PI
+2201101;Avelino Lopes;Parda;66.5;PI
+2201150;Baixa Grande do Ribeiro;Preta;3.99;PI
+2201150;Baixa Grande do Ribeiro;Parda;74.35;PI
+2201176;Barra D'Alcântara;Preta;5.27;PI
+2201176;Barra D'Alcântara;Parda;72.47;PI
+2201200;Barras;Preta;7.14;PI
+2201200;Barras;Parda;76.6;PI
+2201309;Barreiras do Piauí;Preta;12.11;PI
+2201309;Barreiras do Piauí;Parda;67.48;PI
+2201408;Barro Duro;Preta;9.84;PI
+2201408;Barro Duro;Parda;70.07;PI
+2201507;Batalha;Preta;3.89;PI
+2201507;Batalha;Parda;80.41;PI
+2201556;Bela Vista do Piauí;Preta;9.15;PI
+2201556;Bela Vista do Piauí;Parda;23.04;PI
+2201572;Belém do Piauí;Preta;2.03;PI
+2201572;Belém do Piauí;Parda;65.99;PI
+2201606;Beneditinos;Preta;4.02;PI
+2201606;Beneditinos;Parda;80.29;PI
+2201705;Bertolínia;Preta;12.09;PI
+2201705;Bertolínia;Parda;68.15;PI
+2201739;Betânia do Piauí;Preta;7.9;PI
+2201739;Betânia do Piauí;Parda;50.85;PI
+2201770;Boa Hora;Preta;4.25;PI
+2201770;Boa Hora;Parda;78.38;PI
+2201804;Bocaina;Preta;5.14;PI
+2201804;Bocaina;Parda;54.65;PI
+2201903;Bom Jesus;Preta;9.45;PI
+2201903;Bom Jesus;Parda;65.84;PI
+2201919;Bom Princípio do Piauí;Preta;1.57;PI
+2201919;Bom Princípio do Piauí;Parda;62.38;PI
+2201929;Bonfim do Piauí;Preta;9.08;PI
+2201929;Bonfim do Piauí;Parda;57.74;PI
+2201945;Boqueirão do Piauí;Preta;6.39;PI
+2201945;Boqueirão do Piauí;Parda;83.5;PI
+2201960;Brasileira;Preta;8.39;PI
+2201960;Brasileira;Parda;67.42;PI
+2201988;Brejo do Piauí;Preta;1.68;PI
+2201988;Brejo do Piauí;Parda;79.51;PI
+2202000;Buriti dos Lopes;Preta;7.72;PI
+2202000;Buriti dos Lopes;Parda;67.71;PI
+2202026;Buriti dos Montes;Preta;1.95;PI
+2202026;Buriti dos Montes;Parda;79.68;PI
+2202059;Cabeceiras do Piauí;Preta;8.91;PI
+2202059;Cabeceiras do Piauí;Parda;75.99;PI
+2202075;Cajazeiras do Piauí;Preta;19.21;PI
+2202075;Cajazeiras do Piauí;Parda;68.85;PI
+2202083;Cajueiro da Praia;Preta;5.7;PI
+2202083;Cajueiro da Praia;Parda;67.0;PI
+2202091;Caldeirão Grande do Piauí;Preta;3.95;PI
+2202091;Caldeirão Grande do Piauí;Parda;63.79;PI
+2202109;Campinas do Piauí;Preta;14.18;PI
+2202109;Campinas do Piauí;Parda;73.12;PI
+2202117;Campo Alegre do Fidalgo;Preta;5.03;PI
+2202117;Campo Alegre do Fidalgo;Parda;61.18;PI
+2202133;Campo Grande do Piauí;Preta;8.18;PI
+2202133;Campo Grande do Piauí;Parda;65.87;PI
+2202174;Campo Largo do Piauí;Preta;8.23;PI
+2202174;Campo Largo do Piauí;Parda;81.24;PI
+2202208;Campo Maior;Preta;5.11;PI
+2202208;Campo Maior;Parda;76.54;PI
+2202251;Canavieira;Preta;3.56;PI
+2202251;Canavieira;Parda;80.69;PI
+2202307;Canto do Buriti;Preta;8.19;PI
+2202307;Canto do Buriti;Parda;65.57;PI
+2202406;Capitão de Campos;Preta;3.9;PI
+2202406;Capitão de Campos;Parda;78.62;PI
+2202455;Capitão Gervásio Oliveira;Preta;19.07;PI
+2202455;Capitão Gervásio Oliveira;Parda;48.02;PI
+2202505;Caracol;Preta;11.99;PI
+2202505;Caracol;Parda;61.2;PI
+2202539;Caraúbas do Piauí;Preta;2.97;PI
+2202539;Caraúbas do Piauí;Parda;73.43;PI
+2202554;Caridade do Piauí;Preta;3.56;PI
+2202554;Caridade do Piauí;Parda;76.01;PI
+2202604;Castelo do Piauí;Preta;11.02;PI
+2202604;Castelo do Piauí;Parda;62.65;PI
+2202653;Caxingó;Preta;10.31;PI
+2202653;Caxingó;Parda;62.32;PI
+2202703;Cocal;Preta;1.55;PI
+2202703;Cocal;Parda;67.77;PI
+2202711;Cocal de Telha;Preta;10.2;PI
+2202711;Cocal de Telha;Parda;74.76;PI
+2202729;Cocal dos Alves;Preta;2.09;PI
+2202729;Cocal dos Alves;Parda;57.43;PI
+2202737;Coivaras;Preta;6.78;PI
+2202737;Coivaras;Parda;78.34;PI
+2202752;Colônia do Gurguéia;Preta;13.03;PI
+2202752;Colônia do Gurguéia;Parda;64.67;PI
+2202778;Colônia do Piauí;Preta;19.68;PI
+2202778;Colônia do Piauí;Parda;65.13;PI
+2202802;Conceição do Canindé;Preta;6.11;PI
+2202802;Conceição do Canindé;Parda;63.56;PI
+2202851;Coronel José Dias;Preta;2.92;PI
+2202851;Coronel José Dias;Parda;71.84;PI
+2202901;Corrente;Preta;15.53;PI
+2202901;Corrente;Parda;58.77;PI
+2203008;Cristalândia do Piauí;Preta;11.17;PI
+2203008;Cristalândia do Piauí;Parda;68.82;PI
+2203107;Cristino Castro;Preta;12.18;PI
+2203107;Cristino Castro;Parda;65.98;PI
+2203206;Curimatá;Preta;8.02;PI
+2203206;Curimatá;Parda;74.1;PI
+2203230;Currais;Preta;9.35;PI
+2203230;Currais;Parda;76.03;PI
+2203255;Curralinhos;Preta;13.45;PI
+2203255;Curralinhos;Parda;76.09;PI
+2203271;Curral Novo do Piauí;Preta;3.25;PI
+2203271;Curral Novo do Piauí;Parda;60.6;PI
+2203305;Demerval Lobão;Preta;11.4;PI
+2203305;Demerval Lobão;Parda;69.11;PI
+2203354;Dirceu Arcoverde;Preta;4.49;PI
+2203354;Dirceu Arcoverde;Parda;69.69;PI
+2203404;Dom Expedito Lopes;Preta;4.48;PI
+2203404;Dom Expedito Lopes;Parda;58.55;PI
+2203420;Domingos Mourão;Preta;10.28;PI
+2203420;Domingos Mourão;Parda;52.79;PI
+2203453;Dom Inocêncio;Preta;8.15;PI
+2203453;Dom Inocêncio;Parda;53.41;PI
+2203503;Elesbão Veloso;Preta;8.99;PI
+2203503;Elesbão Veloso;Parda;66.7;PI
+2203602;Eliseu Martins;Preta;5.67;PI
+2203602;Eliseu Martins;Parda;74.04;PI
+2203701;Esperantina;Preta;8.95;PI
+2203701;Esperantina;Parda;67.26;PI
+2203750;Fartura do Piauí;Preta;8.61;PI
+2203750;Fartura do Piauí;Parda;70.11;PI
+2203800;Flores do Piauí;Preta;8.0;PI
+2203800;Flores do Piauí;Parda;71.03;PI
+2203859;Floresta do Piauí;Preta;11.05;PI
+2203859;Floresta do Piauí;Parda;64.05;PI
+2203909;Floriano;Preta;15.5;PI
+2203909;Floriano;Parda;60.05;PI
+2204006;Francinópolis;Preta;10.2;PI
+2204006;Francinópolis;Parda;74.72;PI
+2204105;Francisco Ayres;Preta;10.05;PI
+2204105;Francisco Ayres;Parda;69.22;PI
+2204154;Francisco Macedo;Preta;5.09;PI
+2204154;Francisco Macedo;Parda;72.54;PI
+2204204;Francisco Santos;Preta;3.66;PI
+2204204;Francisco Santos;Parda;59.83;PI
+2204303;Fronteiras;Preta;2.98;PI
+2204303;Fronteiras;Parda;53.04;PI
+2204352;Geminiano;Preta;6.67;PI
+2204352;Geminiano;Parda;59.4;PI
+2204402;Gilbués;Preta;10.51;PI
+2204402;Gilbués;Parda;71.87;PI
+2204501;Guadalupe;Preta;8.45;PI
+2204501;Guadalupe;Parda;64.5;PI
+2204550;Guaribas;Preta;5.78;PI
+2204550;Guaribas;Parda;67.53;PI
+2204600;Hugo Napoleão;Preta;3.28;PI
+2204600;Hugo Napoleão;Parda;69.83;PI
+2204659;Ilha Grande;Preta;2.58;PI
+2204659;Ilha Grande;Parda;73.8;PI
+2204709;Inhuma;Preta;8.9;PI
+2204709;Inhuma;Parda;66.73;PI
+2204808;Ipiranga do Piauí;Preta;11.13;PI
+2204808;Ipiranga do Piauí;Parda;59.81;PI
+2204907;Isaías Coelho;Preta;14.65;PI
+2204907;Isaías Coelho;Parda;70.35;PI
+2205003;Itainópolis;Preta;4.99;PI
+2205003;Itainópolis;Parda;68.98;PI
+2205102;Itaueira;Preta;13.78;PI
+2205102;Itaueira;Parda;62.32;PI
+2205151;Jacobina do Piauí;Preta;7.41;PI
+2205151;Jacobina do Piauí;Parda;48.78;PI
+2205201;Jaicós;Preta;3.75;PI
+2205201;Jaicós;Parda;78.74;PI
+2205250;Jardim do Mulato;Preta;12.02;PI
+2205250;Jardim do Mulato;Parda;69.34;PI
+2205276;Jatobá do Piauí;Preta;2.92;PI
+2205276;Jatobá do Piauí;Parda;84.36;PI
+2205300;Jerumenha;Preta;18.89;PI
+2205300;Jerumenha;Parda;63.69;PI
+2205359;João Costa;Preta;4.58;PI
+2205359;João Costa;Parda;64.91;PI
+2205409;Joaquim Pires;Preta;7.1;PI
+2205409;Joaquim Pires;Parda;69.2;PI
+2205458;Joca Marques;Preta;11.0;PI
+2205458;Joca Marques;Parda;69.78;PI
+2205508;José de Freitas;Preta;6.74;PI
+2205508;José de Freitas;Parda;78.61;PI
+2205516;Juazeiro do Piauí;Preta;7.59;PI
+2205516;Juazeiro do Piauí;Parda;64.31;PI
+2205524;Júlio Borges;Preta;6.67;PI
+2205524;Júlio Borges;Parda;84.32;PI
+2205532;Jurema;Preta;2.71;PI
+2205532;Jurema;Parda;70.93;PI
+2205540;Lagoinha do Piauí;Preta;6.57;PI
+2205540;Lagoinha do Piauí;Parda;75.04;PI
+2205557;Lagoa Alegre;Preta;8.41;PI
+2205557;Lagoa Alegre;Parda;72.91;PI
+2205565;Lagoa do Barro do Piauí;Preta;1.76;PI
+2205565;Lagoa do Barro do Piauí;Parda;76.66;PI
+2205573;Lagoa de São Francisco;Preta;1.55;PI
+2205573;Lagoa de São Francisco;Parda;58.5;PI
+2205581;Lagoa do Piauí;Preta;13.97;PI
+2205581;Lagoa do Piauí;Parda;73.58;PI
+2205599;Lagoa do Sítio;Preta;4.47;PI
+2205599;Lagoa do Sítio;Parda;77.14;PI
+2205607;Landri Sales;Preta;16.37;PI
+2205607;Landri Sales;Parda;64.79;PI
+2205706;Luís Correia;Preta;3.43;PI
+2205706;Luís Correia;Parda;64.5;PI
+2205805;Luzilândia;Preta;6.06;PI
+2205805;Luzilândia;Parda;72.5;PI
+2205854;Madeiro;Preta;10.5;PI
+2205854;Madeiro;Parda;70.91;PI
+2205904;Manoel Emídio;Preta;10.49;PI
+2205904;Manoel Emídio;Parda;66.4;PI
+2205953;Marcolândia;Preta;3.63;PI
+2205953;Marcolândia;Parda;69.3;PI
+2206001;Marcos Parente;Preta;9.31;PI
+2206001;Marcos Parente;Parda;70.6;PI
+2206050;Massapê do Piauí;Preta;6.74;PI
+2206050;Massapê do Piauí;Parda;65.81;PI
+2206100;Matias Olímpio;Preta;10.16;PI
+2206100;Matias Olímpio;Parda;63.02;PI
+2206209;Miguel Alves;Preta;9.5;PI
+2206209;Miguel Alves;Parda;71.83;PI
+2206308;Miguel Leão;Preta;7.0;PI
+2206308;Miguel Leão;Parda;78.11;PI
+2206357;Milton Brandão;Preta;4.01;PI
+2206357;Milton Brandão;Parda;54.15;PI
+2206407;Monsenhor Gil;Preta;13.32;PI
+2206407;Monsenhor Gil;Parda;73.73;PI
+2206506;Monsenhor Hipólito;Preta;5.23;PI
+2206506;Monsenhor Hipólito;Parda;51.93;PI
+2206605;Monte Alegre do Piauí;Preta;7.22;PI
+2206605;Monte Alegre do Piauí;Parda;77.21;PI
+2206654;Morro Cabeça no Tempo;Preta;3.11;PI
+2206654;Morro Cabeça no Tempo;Parda;81.66;PI
+2206670;Morro do Chapéu do Piauí;Preta;2.93;PI
+2206670;Morro do Chapéu do Piauí;Parda;77.05;PI
+2206696;Murici dos Portelas;Preta;11.23;PI
+2206696;Murici dos Portelas;Parda;67.5;PI
+2206704;Nazaré do Piauí;Preta;17.99;PI
+2206704;Nazaré do Piauí;Parda;67.43;PI
+2206720;Nazária;Preta;14.49;PI
+2206720;Nazária;Parda;67.62;PI
+2206753;Nossa Senhora de Nazaré;Preta;6.43;PI
+2206753;Nossa Senhora de Nazaré;Parda;77.34;PI
+2206803;Nossa Senhora dos Remédios;Preta;7.46;PI
+2206803;Nossa Senhora dos Remédios;Parda;74.35;PI
+2206902;Novo Oriente do Piauí;Preta;10.05;PI
+2206902;Novo Oriente do Piauí;Parda;72.9;PI
+2206951;Novo Santo Antônio;Preta;14.0;PI
+2206951;Novo Santo Antônio;Parda;53.45;PI
+2207009;Oeiras;Preta;14.69;PI
+2207009;Oeiras;Parda;64.88;PI
+2207108;Olho D'Água do Piauí;Preta;8.18;PI
+2207108;Olho D'Água do Piauí;Parda;72.46;PI
+2207207;Padre Marcos;Preta;15.26;PI
+2207207;Padre Marcos;Parda;50.17;PI
+2207306;Paes Landim;Preta;8.45;PI
+2207306;Paes Landim;Parda;70.06;PI
+2207355;Pajeú do Piauí;Preta;2.84;PI
+2207355;Pajeú do Piauí;Parda;75.47;PI
+2207405;Palmeira do Piauí;Preta;7.58;PI
+2207405;Palmeira do Piauí;Parda;62.59;PI
+2207504;Palmeirais;Preta;27.35;PI
+2207504;Palmeirais;Parda;58.52;PI
+2207553;Paquetá;Preta;11.52;PI
+2207553;Paquetá;Parda;57.68;PI
+2207603;Parnaguá;Preta;13.06;PI
+2207603;Parnaguá;Parda;67.81;PI
+2207702;Parnaíba;Preta;6.59;PI
+2207702;Parnaíba;Parda;56.96;PI
+2207751;Passagem Franca do Piauí;Preta;16.56;PI
+2207751;Passagem Franca do Piauí;Parda;64.94;PI
+2207777;Patos do Piauí;Preta;4.93;PI
+2207777;Patos do Piauí;Parda;68.71;PI
+2207793;Pau D'Arco do Piauí;Preta;3.51;PI
+2207793;Pau D'Arco do Piauí;Parda;78.5;PI
+2207801;Paulistana;Preta;15.96;PI
+2207801;Paulistana;Parda;45.07;PI
+2207850;Pavussu;Preta;3.68;PI
+2207850;Pavussu;Parda;74.73;PI
+2207900;Pedro II;Preta;3.13;PI
+2207900;Pedro II;Parda;54.58;PI
+2207934;Pedro Laurentino;Preta;4.36;PI
+2207934;Pedro Laurentino;Parda;69.94;PI
+2207959;Nova Santa Rita;Preta;18.22;PI
+2207959;Nova Santa Rita;Parda;50.91;PI
+2208007;Picos;Preta;6.96;PI
+2208007;Picos;Parda;52.61;PI
+2208106;Pimenteiras;Preta;9.05;PI
+2208106;Pimenteiras;Parda;59.46;PI
+2208205;Pio IX;Preta;6.04;PI
+2208205;Pio IX;Parda;60.5;PI
+2208304;Piracuruca;Preta;3.29;PI
+2208304;Piracuruca;Parda;68.63;PI
+2208403;Piripiri;Preta;5.62;PI
+2208403;Piripiri;Parda;66.41;PI
+2208502;Porto;Preta;11.03;PI
+2208502;Porto;Parda;74.32;PI
+2208551;Porto Alegre do Piauí;Preta;19.96;PI
+2208551;Porto Alegre do Piauí;Parda;62.39;PI
+2208601;Prata do Piauí;Preta;3.16;PI
+2208601;Prata do Piauí;Parda;76.36;PI
+2208650;Queimada Nova;Preta;18.51;PI
+2208650;Queimada Nova;Parda;22.74;PI
+2208700;Redenção do Gurguéia;Preta;20.0;PI
+2208700;Redenção do Gurguéia;Parda;62.33;PI
+2208809;Regeneração;Preta;20.79;PI
+2208809;Regeneração;Parda;61.36;PI
+2208858;Riacho Frio;Preta;17.19;PI
+2208858;Riacho Frio;Parda;65.01;PI
+2208874;Ribeira do Piauí;Preta;19.64;PI
+2208874;Ribeira do Piauí;Parda;59.45;PI
+2208908;Ribeiro Gonçalves;Preta;9.38;PI
+2208908;Ribeiro Gonçalves;Parda;67.56;PI
+2209005;Rio Grande do Piauí;Preta;11.5;PI
+2209005;Rio Grande do Piauí;Parda;67.95;PI
+2209104;Santa Cruz do Piauí;Preta;9.52;PI
+2209104;Santa Cruz do Piauí;Parda;69.07;PI
+2209153;Santa Cruz dos Milagres;Preta;10.45;PI
+2209153;Santa Cruz dos Milagres;Parda;78.85;PI
+2209203;Santa Filomena;Preta;20.93;PI
+2209203;Santa Filomena;Parda;60.74;PI
+2209302;Santa Luz;Preta;11.52;PI
+2209302;Santa Luz;Parda;66.39;PI
+2209351;Santana do Piauí;Preta;1.13;PI
+2209351;Santana do Piauí;Parda;61.72;PI
+2209377;Santa Rosa do Piauí;Preta;17.8;PI
+2209377;Santa Rosa do Piauí;Parda;64.99;PI
+2209401;Santo Antônio de Lisboa;Preta;3.29;PI
+2209401;Santo Antônio de Lisboa;Parda;60.22;PI
+2209450;Santo Antônio dos Milagres;Preta;4.47;PI
+2209450;Santo Antônio dos Milagres;Parda;77.79;PI
+2209500;Santo Inácio do Piauí;Preta;9.69;PI
+2209500;Santo Inácio do Piauí;Parda;65.25;PI
+2209559;São Braz do Piauí;Preta;4.25;PI
+2209559;São Braz do Piauí;Parda;65.9;PI
+2209609;São Félix do Piauí;Preta;10.61;PI
+2209609;São Félix do Piauí;Parda;58.87;PI
+2209658;São Francisco de Assis do Piauí;Preta;5.26;PI
+2209658;São Francisco de Assis do Piauí;Parda;32.33;PI
+2209708;São Francisco do Piauí;Preta;13.05;PI
+2209708;São Francisco do Piauí;Parda;74.34;PI
+2209757;São Gonçalo do Gurguéia;Preta;7.97;PI
+2209757;São Gonçalo do Gurguéia;Parda;72.03;PI
+2209807;São Gonçalo do Piauí;Preta;19.34;PI
+2209807;São Gonçalo do Piauí;Parda;47.94;PI
+2209856;São João da Canabrava;Preta;2.55;PI
+2209856;São João da Canabrava;Parda;62.94;PI
+2209872;São João da Fronteira;Preta;1.39;PI
+2209872;São João da Fronteira;Parda;76.22;PI
+2209906;São João da Serra;Preta;7.77;PI
+2209906;São João da Serra;Parda;71.7;PI
+2209955;São João da Varjota;Preta;30.45;PI
+2209955;São João da Varjota;Parda;57.37;PI
+2209971;São João do Arraial;Preta;4.89;PI
+2209971;São João do Arraial;Parda;68.9;PI
+2210003;São João do Piauí;Preta;14.45;PI
+2210003;São João do Piauí;Parda;60.43;PI
+2210052;São José do Divino;Preta;2.74;PI
+2210052;São José do Divino;Parda;72.69;PI
+2210102;São José do Peixe;Preta;9.34;PI
+2210102;São José do Peixe;Parda;74.59;PI
+2210201;São José do Piauí;Preta;6.73;PI
+2210201;São José do Piauí;Parda;43.16;PI
+2210300;São Julião;Preta;7.36;PI
+2210300;São Julião;Parda;56.7;PI
+2210359;São Lourenço do Piauí;Preta;6.38;PI
+2210359;São Lourenço do Piauí;Parda;68.82;PI
+2210375;São Luis do Piauí;Preta;4.84;PI
+2210375;São Luis do Piauí;Parda;50.84;PI
+2210383;São Miguel da Baixa Grande;Preta;8.18;PI
+2210383;São Miguel da Baixa Grande;Parda;61.07;PI
+2210391;São Miguel do Fidalgo;Preta;28.74;PI
+2210391;São Miguel do Fidalgo;Parda;58.27;PI
+2210409;São Miguel do Tapuio;Preta;5.07;PI
+2210409;São Miguel do Tapuio;Parda;73.22;PI
+2210508;São Pedro do Piauí;Preta;14.35;PI
+2210508;São Pedro do Piauí;Parda;65.7;PI
+2210607;São Raimundo Nonato;Preta;12.52;PI
+2210607;São Raimundo Nonato;Parda;62.5;PI
+2210623;Sebastião Barros;Preta;11.02;PI
+2210623;Sebastião Barros;Parda;64.02;PI
+2210631;Sebastião Leal;Preta;6.77;PI
+2210631;Sebastião Leal;Parda;64.78;PI
+2210656;Sigefredo Pacheco;Preta;3.53;PI
+2210656;Sigefredo Pacheco;Parda;75.55;PI
+2210706;Simões;Preta;9.86;PI
+2210706;Simões;Parda;61.7;PI
+2210805;Simplício Mendes;Preta;12.75;PI
+2210805;Simplício Mendes;Parda;63.14;PI
+2210904;Socorro do Piauí;Preta;11.33;PI
+2210904;Socorro do Piauí;Parda;69.57;PI
+2210938;Sussuapara;Preta;2.91;PI
+2210938;Sussuapara;Parda;50.79;PI
+2210953;Tamboril do Piauí;Preta;0.98;PI
+2210953;Tamboril do Piauí;Parda;81.01;PI
+2210979;Tanque do Piauí;Preta;9.19;PI
+2210979;Tanque do Piauí;Parda;70.44;PI
+2211001;Teresina;Preta;11.0;PI
+2211001;Teresina;Parda;60.1;PI
+2211100;União;Preta;8.05;PI
+2211100;União;Parda;74.06;PI
+2211209;Uruçuí;Preta;12.36;PI
+2211209;Uruçuí;Parda;60.92;PI
+2211308;Valença do Piauí;Preta;8.56;PI
+2211308;Valença do Piauí;Parda;69.46;PI
+2211357;Várzea Branca;Preta;12.47;PI
+2211357;Várzea Branca;Parda;63.36;PI
+2211407;Várzea Grande;Preta;12.86;PI
+2211407;Várzea Grande;Parda;64.04;PI
+2211506;Vera Mendes;Preta;2.68;PI
+2211506;Vera Mendes;Parda;69.82;PI
+2211605;Vila Nova do Piauí;Preta;3.33;PI
+2211605;Vila Nova do Piauí;Parda;55.84;PI
+2211704;Wall Ferraz;Preta;5.6;PI
+2211704;Wall Ferraz;Parda;72.7;PI
+2300101;Abaiara;Preta;6.24;CE
+2300101;Abaiara;Parda;65.32;CE
+2300150;Acarape;Preta;3.06;CE
+2300150;Acarape;Parda;79.99;CE
+2300200;Acaraú;Preta;4.27;CE
+2300200;Acaraú;Parda;69.22;CE
+2300309;Acopiara;Preta;4.68;CE
+2300309;Acopiara;Parda;62.25;CE
+2300408;Aiuaba;Preta;7.6;CE
+2300408;Aiuaba;Parda;63.54;CE
+2300507;Alcântaras;Preta;4.27;CE
+2300507;Alcântaras;Parda;74.11;CE
+2300606;Altaneira;Preta;7.49;CE
+2300606;Altaneira;Parda;63.55;CE
+2300705;Alto Santo;Preta;3.47;CE
+2300705;Alto Santo;Parda;59.76;CE
+2300754;Amontada;Preta;2.84;CE
+2300754;Amontada;Parda;71.74;CE
+2300804;Antonina do Norte;Preta;16.96;CE
+2300804;Antonina do Norte;Parda;39.7;CE
+2300903;Apuiarés;Preta;4.05;CE
+2300903;Apuiarés;Parda;61.89;CE
+2301000;Aquiraz;Preta;3.12;CE
+2301000;Aquiraz;Parda;68.52;CE
+2301109;Aracati;Preta;4.79;CE
+2301109;Aracati;Parda;67.46;CE
+2301208;Aracoiaba;Preta;5.68;CE
+2301208;Aracoiaba;Parda;66.77;CE
+2301257;Ararendá;Preta;4.77;CE
+2301257;Ararendá;Parda;63.24;CE
+2301307;Araripe;Preta;5.0;CE
+2301307;Araripe;Parda;63.81;CE
+2301406;Aratuba;Preta;6.81;CE
+2301406;Aratuba;Parda;69.56;CE
+2301505;Arneiroz;Preta;4.15;CE
+2301505;Arneiroz;Parda;63.94;CE
+2301604;Assaré;Preta;4.3;CE
+2301604;Assaré;Parda;60.16;CE
+2301703;Aurora;Preta;2.75;CE
+2301703;Aurora;Parda;62.21;CE
+2301802;Baixio;Preta;3.66;CE
+2301802;Baixio;Parda;64.42;CE
+2301851;Banabuiú;Preta;4.34;CE
+2301851;Banabuiú;Parda;62.34;CE
+2301901;Barbalha;Preta;6.91;CE
+2301901;Barbalha;Parda;67.98;CE
+2301950;Barreira;Preta;1.73;CE
+2301950;Barreira;Parda;84.09;CE
+2302008;Barro;Preta;3.79;CE
+2302008;Barro;Parda;60.2;CE
+2302057;Barroquinha;Preta;6.54;CE
+2302057;Barroquinha;Parda;70.35;CE
+2302107;Baturité;Preta;5.65;CE
+2302107;Baturité;Parda;71.95;CE
+2302206;Beberibe;Preta;2.6;CE
+2302206;Beberibe;Parda;67.31;CE
+2302305;Bela Cruz;Preta;4.38;CE
+2302305;Bela Cruz;Parda;69.2;CE
+2302404;Boa Viagem;Preta;4.46;CE
+2302404;Boa Viagem;Parda;63.16;CE
+2302503;Brejo Santo;Preta;3.8;CE
+2302503;Brejo Santo;Parda;65.06;CE
+2302602;Camocim;Preta;4.65;CE
+2302602;Camocim;Parda;72.02;CE
+2302701;Campos Sales;Preta;6.99;CE
+2302701;Campos Sales;Parda;51.7;CE
+2302800;Canindé;Preta;3.46;CE
+2302800;Canindé;Parda;71.22;CE
+2302909;Capistrano;Preta;5.21;CE
+2302909;Capistrano;Parda;73.97;CE
+2303006;Caridade;Preta;6.22;CE
+2303006;Caridade;Parda;67.74;CE
+2303105;Cariré;Preta;4.99;CE
+2303105;Cariré;Parda;64.47;CE
+2303204;Caririaçu;Preta;3.74;CE
+2303204;Caririaçu;Parda;65.49;CE
+2303303;Cariús;Preta;6.05;CE
+2303303;Cariús;Parda;51.76;CE
+2303402;Carnaubal;Preta;2.62;CE
+2303402;Carnaubal;Parda;53.95;CE
+2303501;Cascavel;Preta;2.9;CE
+2303501;Cascavel;Parda;69.4;CE
+2303600;Catarina;Preta;6.01;CE
+2303600;Catarina;Parda;60.29;CE
+2303659;Catunda;Preta;2.43;CE
+2303659;Catunda;Parda;70.52;CE
+2303709;Caucaia;Preta;5.48;CE
+2303709;Caucaia;Parda;65.05;CE
+2303808;Cedro;Preta;6.04;CE
+2303808;Cedro;Parda;52.84;CE
+2303907;Chaval;Preta;5.28;CE
+2303907;Chaval;Parda;69.7;CE
+2303931;Choró;Preta;4.47;CE
+2303931;Choró;Parda;73.26;CE
+2303956;Chorozinho;Preta;3.9;CE
+2303956;Chorozinho;Parda;65.73;CE
+2304004;Coreaú;Preta;6.78;CE
+2304004;Coreaú;Parda;52.46;CE
+2304103;Crateús;Preta;4.44;CE
+2304103;Crateús;Parda;61.63;CE
+2304202;Crato;Preta;7.68;CE
+2304202;Crato;Parda;59.96;CE
+2304236;Croatá;Preta;2.62;CE
+2304236;Croatá;Parda;71.17;CE
+2304251;Cruz;Preta;5.69;CE
+2304251;Cruz;Parda;62.06;CE
+2304269;Deputado Irapuan Pinheiro;Preta;2.0;CE
+2304269;Deputado Irapuan Pinheiro;Parda;61.52;CE
+2304277;Ereré;Preta;7.57;CE
+2304277;Ereré;Parda;53.31;CE
+2304285;Eusébio;Preta;6.79;CE
+2304285;Eusébio;Parda;59.32;CE
+2304301;Farias Brito;Preta;5.12;CE
+2304301;Farias Brito;Parda;62.59;CE
+2304350;Forquilha;Preta;5.8;CE
+2304350;Forquilha;Parda;62.73;CE
+2304400;Fortaleza;Preta;4.42;CE
+2304400;Fortaleza;Parda;57.86;CE
+2304459;Fortim;Preta;4.49;CE
+2304459;Fortim;Parda;68.0;CE
+2304509;Frecheirinha;Preta;4.22;CE
+2304509;Frecheirinha;Parda;61.83;CE
+2304608;General Sampaio;Preta;4.62;CE
+2304608;General Sampaio;Parda;64.82;CE
+2304657;Graça;Preta;5.15;CE
+2304657;Graça;Parda;61.77;CE
+2304707;Granja;Preta;5.39;CE
+2304707;Granja;Parda;70.75;CE
+2304806;Granjeiro;Preta;2.64;CE
+2304806;Granjeiro;Parda;67.26;CE
+2304905;Groaíras;Preta;1.74;CE
+2304905;Groaíras;Parda;53.84;CE
+2304954;Guaiúba;Preta;4.85;CE
+2304954;Guaiúba;Parda;70.34;CE
+2305001;Guaraciaba do Norte;Preta;2.68;CE
+2305001;Guaraciaba do Norte;Parda;65.89;CE
+2305100;Guaramiranga;Preta;3.2;CE
+2305100;Guaramiranga;Parda;67.97;CE
+2305209;Hidrolândia;Preta;4.35;CE
+2305209;Hidrolândia;Parda;61.9;CE
+2305233;Horizonte;Preta;4.06;CE
+2305233;Horizonte;Parda;64.44;CE
+2305266;Ibaretama;Preta;3.89;CE
+2305266;Ibaretama;Parda;69.53;CE
+2305308;Ibiapina;Preta;2.67;CE
+2305308;Ibiapina;Parda;67.79;CE
+2305332;Ibicuitinga;Preta;1.7;CE
+2305332;Ibicuitinga;Parda;63.17;CE
+2305357;Icapuí;Preta;6.05;CE
+2305357;Icapuí;Parda;55.89;CE
+2305407;Icó;Preta;3.71;CE
+2305407;Icó;Parda;62.67;CE
+2305506;Iguatu;Preta;3.51;CE
+2305506;Iguatu;Parda;57.86;CE
+2305605;Independência;Preta;6.0;CE
+2305605;Independência;Parda;53.78;CE
+2305654;Ipaporanga;Preta;4.07;CE
+2305654;Ipaporanga;Parda;67.92;CE
+2305704;Ipaumirim;Preta;1.99;CE
+2305704;Ipaumirim;Parda;63.51;CE
+2305803;Ipu;Preta;3.67;CE
+2305803;Ipu;Parda;62.45;CE
+2305902;Ipueiras;Preta;2.76;CE
+2305902;Ipueiras;Parda;64.95;CE
+2306009;Iracema;Preta;6.34;CE
+2306009;Iracema;Parda;51.3;CE
+2306108;Irauçuba;Preta;2.57;CE
+2306108;Irauçuba;Parda;73.82;CE
+2306207;Itaiçaba;Preta;2.1;CE
+2306207;Itaiçaba;Parda;64.84;CE
+2306256;Itaitinga;Preta;6.02;CE
+2306256;Itaitinga;Parda;70.08;CE
+2306306;Itapajé;Preta;3.08;CE
+2306306;Itapajé;Parda;67.97;CE
+2306405;Itapipoca;Preta;3.76;CE
+2306405;Itapipoca;Parda;68.53;CE
+2306504;Itapiúna;Preta;8.8;CE
+2306504;Itapiúna;Parda;68.18;CE
+2306553;Itarema;Preta;3.01;CE
+2306553;Itarema;Parda;66.01;CE
+2306603;Itatira;Preta;3.76;CE
+2306603;Itatira;Parda;71.77;CE
+2306702;Jaguaretama;Preta;7.29;CE
+2306702;Jaguaretama;Parda;56.7;CE
+2306801;Jaguaribara;Preta;5.44;CE
+2306801;Jaguaribara;Parda;59.05;CE
+2306900;Jaguaribe;Preta;3.79;CE
+2306900;Jaguaribe;Parda;61.34;CE
+2307007;Jaguaruana;Preta;5.54;CE
+2307007;Jaguaruana;Parda;48.49;CE
+2307106;Jardim;Preta;5.44;CE
+2307106;Jardim;Parda;71.74;CE
+2307205;Jati;Preta;2.11;CE
+2307205;Jati;Parda;68.64;CE
+2307254;Jijoca de Jericoacoara;Preta;2.05;CE
+2307254;Jijoca de Jericoacoara;Parda;65.28;CE
+2307304;Juazeiro do Norte;Preta;5.04;CE
+2307304;Juazeiro do Norte;Parda;60.8;CE
+2307403;Jucás;Preta;3.9;CE
+2307403;Jucás;Parda;63.28;CE
+2307502;Lavras da Mangabeira;Preta;3.65;CE
+2307502;Lavras da Mangabeira;Parda;58.15;CE
+2307601;Limoeiro do Norte;Preta;6.99;CE
+2307601;Limoeiro do Norte;Parda;45.83;CE
+2307635;Madalena;Preta;5.29;CE
+2307635;Madalena;Parda;70.2;CE
+2307650;Maracanaú;Preta;4.58;CE
+2307650;Maracanaú;Parda;63.84;CE
+2307700;Maranguape;Preta;6.13;CE
+2307700;Maranguape;Parda;63.01;CE
+2307809;Marco;Preta;8.34;CE
+2307809;Marco;Parda;62.56;CE
+2307908;Martinópole;Preta;3.0;CE
+2307908;Martinópole;Parda;75.78;CE
+2308005;Massapê;Preta;7.13;CE
+2308005;Massapê;Parda;72.79;CE
+2308104;Mauriti;Preta;4.5;CE
+2308104;Mauriti;Parda;62.78;CE
+2308203;Meruoca;Preta;3.13;CE
+2308203;Meruoca;Parda;75.86;CE
+2308302;Milagres;Preta;4.41;CE
+2308302;Milagres;Parda;67.57;CE
+2308351;Milhã;Preta;3.8;CE
+2308351;Milhã;Parda;49.77;CE
+2308377;Miraíma;Preta;3.7;CE
+2308377;Miraíma;Parda;68.63;CE
+2308401;Missão Velha;Preta;5.25;CE
+2308401;Missão Velha;Parda;68.12;CE
+2308500;Mombaça;Preta;2.66;CE
+2308500;Mombaça;Parda;61.11;CE
+2308609;Monsenhor Tabosa;Preta;2.01;CE
+2308609;Monsenhor Tabosa;Parda;61.34;CE
+2308708;Morada Nova;Preta;4.08;CE
+2308708;Morada Nova;Parda;54.21;CE
+2308807;Moraújo;Preta;4.31;CE
+2308807;Moraújo;Parda;78.98;CE
+2308906;Morrinhos;Preta;6.62;CE
+2308906;Morrinhos;Parda;56.76;CE
+2309003;Mucambo;Preta;5.87;CE
+2309003;Mucambo;Parda;54.85;CE
+2309102;Mulungu;Preta;5.89;CE
+2309102;Mulungu;Parda;67.02;CE
+2309201;Nova Olinda;Preta;5.02;CE
+2309201;Nova Olinda;Parda;65.75;CE
+2309300;Nova Russas;Preta;2.93;CE
+2309300;Nova Russas;Parda;64.96;CE
+2309409;Novo Oriente;Preta;6.65;CE
+2309409;Novo Oriente;Parda;58.67;CE
+2309458;Ocara;Preta;5.14;CE
+2309458;Ocara;Parda;70.52;CE
+2309508;Orós;Preta;2.41;CE
+2309508;Orós;Parda;64.39;CE
+2309607;Pacajus;Preta;3.84;CE
+2309607;Pacajus;Parda;68.48;CE
+2309706;Pacatuba;Preta;4.8;CE
+2309706;Pacatuba;Parda;67.15;CE
+2309805;Pacoti;Preta;6.31;CE
+2309805;Pacoti;Parda;70.13;CE
+2309904;Pacujá;Preta;3.85;CE
+2309904;Pacujá;Parda;60.06;CE
+2310001;Palhano;Preta;2.76;CE
+2310001;Palhano;Parda;57.15;CE
+2310100;Palmácia;Preta;8.08;CE
+2310100;Palmácia;Parda;69.92;CE
+2310209;Paracuru;Preta;3.92;CE
+2310209;Paracuru;Parda;70.0;CE
+2310258;Paraipaba;Preta;2.64;CE
+2310258;Paraipaba;Parda;71.95;CE
+2310308;Parambu;Preta;6.25;CE
+2310308;Parambu;Parda;56.38;CE
+2310407;Paramoti;Preta;3.04;CE
+2310407;Paramoti;Parda;65.55;CE
+2310506;Pedra Branca;Preta;2.22;CE
+2310506;Pedra Branca;Parda;70.33;CE
+2310605;Penaforte;Preta;3.77;CE
+2310605;Penaforte;Parda;66.26;CE
+2310704;Pentecoste;Preta;1.95;CE
+2310704;Pentecoste;Parda;65.92;CE
+2310803;Pereiro;Preta;1.25;CE
+2310803;Pereiro;Parda;57.5;CE
+2310852;Pindoretama;Preta;5.79;CE
+2310852;Pindoretama;Parda;66.3;CE
+2310902;Piquet Carneiro;Preta;2.45;CE
+2310902;Piquet Carneiro;Parda;55.78;CE
+2310951;Pires Ferreira;Preta;6.55;CE
+2310951;Pires Ferreira;Parda;58.86;CE
+2311009;Poranga;Preta;1.04;CE
+2311009;Poranga;Parda;56.18;CE
+2311108;Porteiras;Preta;4.22;CE
+2311108;Porteiras;Parda;69.28;CE
+2311207;Potengi;Preta;7.23;CE
+2311207;Potengi;Parda;60.07;CE
+2311231;Potiretama;Preta;3.6;CE
+2311231;Potiretama;Parda;43.06;CE
+2311264;Quiterianópolis;Preta;4.07;CE
+2311264;Quiterianópolis;Parda;61.39;CE
+2311306;Quixadá;Preta;5.58;CE
+2311306;Quixadá;Parda;63.39;CE
+2311355;Quixelô;Preta;1.12;CE
+2311355;Quixelô;Parda;60.64;CE
+2311405;Quixeramobim;Preta;6.4;CE
+2311405;Quixeramobim;Parda;63.83;CE
+2311504;Quixeré;Preta;3.2;CE
+2311504;Quixeré;Parda;60.03;CE
+2311603;Redenção;Preta;4.88;CE
+2311603;Redenção;Parda;75.86;CE
+2311702;Reriutaba;Preta;2.5;CE
+2311702;Reriutaba;Parda;59.21;CE
+2311801;Russas;Preta;3.88;CE
+2311801;Russas;Parda;56.69;CE
+2311900;Saboeiro;Preta;4.41;CE
+2311900;Saboeiro;Parda;55.72;CE
+2311959;Salitre;Preta;8.62;CE
+2311959;Salitre;Parda;62.75;CE
+2312007;Santana do Acaraú;Preta;10.11;CE
+2312007;Santana do Acaraú;Parda;65.39;CE
+2312106;Santana do Cariri;Preta;3.56;CE
+2312106;Santana do Cariri;Parda;71.36;CE
+2312205;Santa Quitéria;Preta;3.96;CE
+2312205;Santa Quitéria;Parda;68.8;CE
+2312304;São Benedito;Preta;2.83;CE
+2312304;São Benedito;Parda;60.68;CE
+2312403;São Gonçalo do Amarante;Preta;4.09;CE
+2312403;São Gonçalo do Amarante;Parda;69.92;CE
+2312502;São João do Jaguaribe;Preta;4.19;CE
+2312502;São João do Jaguaribe;Parda;61.16;CE
+2312601;São Luís do Curu;Preta;2.36;CE
+2312601;São Luís do Curu;Parda;70.52;CE
+2312700;Senador Pompeu;Preta;5.25;CE
+2312700;Senador Pompeu;Parda;56.62;CE
+2312809;Senador Sá;Preta;3.09;CE
+2312809;Senador Sá;Parda;78.26;CE
+2312908;Sobral;Preta;5.75;CE
+2312908;Sobral;Parda;63.09;CE
+2313005;Solonópole;Preta;3.54;CE
+2313005;Solonópole;Parda;60.33;CE
+2313104;Tabuleiro do Norte;Preta;3.7;CE
+2313104;Tabuleiro do Norte;Parda;47.39;CE
+2313203;Tamboril;Preta;3.9;CE
+2313203;Tamboril;Parda;68.25;CE
+2313252;Tarrafas;Preta;5.41;CE
+2313252;Tarrafas;Parda;43.17;CE
+2313302;Tauá;Preta;5.9;CE
+2313302;Tauá;Parda;48.13;CE
+2313351;Tejuçuoca;Preta;2.31;CE
+2313351;Tejuçuoca;Parda;68.6;CE
+2313401;Tianguá;Preta;5.81;CE
+2313401;Tianguá;Parda;61.06;CE
+2313500;Trairi;Preta;3.37;CE
+2313500;Trairi;Parda;73.49;CE
+2313559;Tururu;Preta;3.2;CE
+2313559;Tururu;Parda;75.87;CE
+2313609;Ubajara;Preta;3.21;CE
+2313609;Ubajara;Parda;65.27;CE
+2313708;Umari;Preta;4.66;CE
+2313708;Umari;Parda;56.23;CE
+2313757;Umirim;Preta;2.42;CE
+2313757;Umirim;Parda;75.22;CE
+2313807;Uruburetama;Preta;2.84;CE
+2313807;Uruburetama;Parda;72.9;CE
+2313906;Uruoca;Preta;3.33;CE
+2313906;Uruoca;Parda;75.47;CE
+2313955;Varjota;Preta;2.89;CE
+2313955;Varjota;Parda;64.0;CE
+2314003;Várzea Alegre;Preta;2.82;CE
+2314003;Várzea Alegre;Parda;60.82;CE
+2314102;Viçosa do Ceará;Preta;2.07;CE
+2314102;Viçosa do Ceará;Parda;77.73;CE
+2400109;Acari;Preta;4.84;RN
+2400109;Acari;Parda;42.53;RN
+2400208;Açu;Preta;7.99;RN
+2400208;Açu;Parda;55.05;RN
+2400307;Afonso Bezerra;Preta;7.85;RN
+2400307;Afonso Bezerra;Parda;63.82;RN
+2400406;Água Nova;Preta;10.05;RN
+2400406;Água Nova;Parda;42.1;RN
+2400505;Alexandria;Preta;4.07;RN
+2400505;Alexandria;Parda;52.9;RN
+2400604;Almino Afonso;Preta;1.32;RN
+2400604;Almino Afonso;Parda;54.09;RN
+2400703;Alto do Rodrigues;Preta;3.39;RN
+2400703;Alto do Rodrigues;Parda;54.34;RN
+2400802;Angicos;Preta;15.06;RN
+2400802;Angicos;Parda;51.2;RN
+2400901;Antônio Martins;Preta;3.82;RN
+2400901;Antônio Martins;Parda;47.0;RN
+2401008;Apodi;Preta;2.59;RN
+2401008;Apodi;Parda;52.03;RN
+2401107;Areia Branca;Preta;8.11;RN
+2401107;Areia Branca;Parda;62.22;RN
+2401206;Arês;Preta;7.14;RN
+2401206;Arês;Parda;64.56;RN
+2401305;Campo Grande;Preta;4.48;RN
+2401305;Campo Grande;Parda;52.12;RN
+2401404;Baía Formosa;Preta;2.3;RN
+2401404;Baía Formosa;Parda;65.37;RN
+2401453;Baraúna;Preta;5.46;RN
+2401453;Baraúna;Parda;58.17;RN
+2401503;Barcelona;Preta;2.46;RN
+2401503;Barcelona;Parda;57.49;RN
+2401602;Bento Fernandes;Preta;1.89;RN
+2401602;Bento Fernandes;Parda;71.07;RN
+2401651;Bodó;Preta;2.67;RN
+2401651;Bodó;Parda;55.22;RN
+2401701;Bom Jesus;Preta;7.64;RN
+2401701;Bom Jesus;Parda;60.22;RN
+2401800;Brejinho;Preta;2.82;RN
+2401800;Brejinho;Parda;60.06;RN
+2401859;Caiçara do Norte;Preta;8.76;RN
+2401859;Caiçara do Norte;Parda;58.87;RN
+2401909;Caiçara do Rio do Vento;Preta;6.67;RN
+2401909;Caiçara do Rio do Vento;Parda;62.14;RN
+2402006;Caicó;Preta;4.55;RN
+2402006;Caicó;Parda;35.46;RN
+2402105;Campo Redondo;Preta;1.81;RN
+2402105;Campo Redondo;Parda;56.74;RN
+2402204;Canguaretama;Preta;3.91;RN
+2402204;Canguaretama;Parda;61.4;RN
+2402303;Caraúbas;Preta;6.16;RN
+2402303;Caraúbas;Parda;53.54;RN
+2402402;Carnaúba dos Dantas;Preta;5.07;RN
+2402402;Carnaúba dos Dantas;Parda;30.44;RN
+2402501;Carnaubais;Preta;2.54;RN
+2402501;Carnaubais;Parda;66.93;RN
+2402600;Ceará-Mirim;Preta;8.44;RN
+2402600;Ceará-Mirim;Parda;63.52;RN
+2402709;Cerro Corá;Preta;2.85;RN
+2402709;Cerro Corá;Parda;54.54;RN
+2402808;Coronel Ezequiel;Preta;2.94;RN
+2402808;Coronel Ezequiel;Parda;59.98;RN
+2402907;Coronel João Pessoa;Preta;1.58;RN
+2402907;Coronel João Pessoa;Parda;48.4;RN
+2403004;Cruzeta;Preta;5.33;RN
+2403004;Cruzeta;Parda;44.36;RN
+2403103;Currais Novos;Preta;5.28;RN
+2403103;Currais Novos;Parda;42.65;RN
+2403202;Doutor Severiano;Preta;2.96;RN
+2403202;Doutor Severiano;Parda;53.57;RN
+2403251;Parnamirim;Preta;5.0;RN
+2403251;Parnamirim;Parda;45.31;RN
+2403301;Encanto;Preta;1.82;RN
+2403301;Encanto;Parda;46.29;RN
+2403400;Equador;Preta;2.92;RN
+2403400;Equador;Parda;42.94;RN
+2403509;Espírito Santo;Preta;7.11;RN
+2403509;Espírito Santo;Parda;59.01;RN
+2403608;Extremoz;Preta;9.15;RN
+2403608;Extremoz;Parda;63.52;RN
+2403707;Felipe Guerra;Preta;3.83;RN
+2403707;Felipe Guerra;Parda;57.54;RN
+2403756;Fernando Pedroza;Preta;3.79;RN
+2403756;Fernando Pedroza;Parda;68.41;RN
+2403806;Florânia;Preta;4.96;RN
+2403806;Florânia;Parda;45.46;RN
+2403905;Francisco Dantas;Preta;1.92;RN
+2403905;Francisco Dantas;Parda;50.36;RN
+2404002;Frutuoso Gomes;Preta;3.13;RN
+2404002;Frutuoso Gomes;Parda;54.77;RN
+2404101;Galinhos;Preta;13.72;RN
+2404101;Galinhos;Parda;47.89;RN
+2404200;Goianinha;Preta;5.87;RN
+2404200;Goianinha;Parda;57.32;RN
+2404309;Governador Dix-Sept Rosado;Preta;6.88;RN
+2404309;Governador Dix-Sept Rosado;Parda;51.23;RN
+2404408;Grossos;Preta;3.49;RN
+2404408;Grossos;Parda;60.27;RN
+2404507;Guamaré;Preta;12.72;RN
+2404507;Guamaré;Parda;49.83;RN
+2404606;Ielmo Marinho;Preta;1.56;RN
+2404606;Ielmo Marinho;Parda;73.53;RN
+2404705;Ipanguaçu;Preta;6.84;RN
+2404705;Ipanguaçu;Parda;61.82;RN
+2404804;Ipueira;Preta;4.77;RN
+2404804;Ipueira;Parda;36.22;RN
+2404853;Itajá;Preta;6.12;RN
+2404853;Itajá;Parda;61.58;RN
+2404903;Itaú;Preta;3.12;RN
+2404903;Itaú;Parda;49.7;RN
+2405009;Jaçanã;Preta;3.73;RN
+2405009;Jaçanã;Parda;51.97;RN
+2405108;Jandaíra;Preta;5.47;RN
+2405108;Jandaíra;Parda;61.17;RN
+2405207;Janduís;Preta;7.11;RN
+2405207;Janduís;Parda;55.36;RN
+2405306;Januário Cicco;Preta;2.49;RN
+2405306;Januário Cicco;Parda;64.07;RN
+2405405;Japi;Preta;0.89;RN
+2405405;Japi;Parda;63.87;RN
+2405504;Jardim de Angicos;Preta;1.04;RN
+2405504;Jardim de Angicos;Parda;90.42;RN
+2405603;Jardim de Piranhas;Preta;1.98;RN
+2405603;Jardim de Piranhas;Parda;38.91;RN
+2405702;Jardim do Seridó;Preta;4.18;RN
+2405702;Jardim do Seridó;Parda;29.18;RN
+2405801;João Câmara;Preta;6.18;RN
+2405801;João Câmara;Parda;59.95;RN
+2405900;João Dias;Preta;1.9;RN
+2405900;João Dias;Parda;54.65;RN
+2406007;José da Penha;Preta;2.83;RN
+2406007;José da Penha;Parda;44.72;RN
+2406106;Jucurutu;Preta;3.99;RN
+2406106;Jucurutu;Parda;52.79;RN
+2406155;Jundiá;Preta;4.24;RN
+2406155;Jundiá;Parda;61.51;RN
+2406205;Lagoa d'Anta;Preta;9.48;RN
+2406205;Lagoa d'Anta;Parda;48.38;RN
+2406304;Lagoa de Pedras;Preta;1.49;RN
+2406304;Lagoa de Pedras;Parda;65.12;RN
+2406403;Lagoa de Velhos;Preta;3.81;RN
+2406403;Lagoa de Velhos;Parda;57.4;RN
+2406502;Lagoa Nova;Preta;4.8;RN
+2406502;Lagoa Nova;Parda;62.45;RN
+2406601;Lagoa Salgada;Preta;1.39;RN
+2406601;Lagoa Salgada;Parda;64.17;RN
+2406700;Lajes;Preta;2.08;RN
+2406700;Lajes;Parda;62.46;RN
+2406809;Lajes Pintadas;Preta;2.55;RN
+2406809;Lajes Pintadas;Parda;74.33;RN
+2406908;Lucrécia;Preta;6.14;RN
+2406908;Lucrécia;Parda;43.09;RN
+2407005;Luís Gomes;Preta;4.24;RN
+2407005;Luís Gomes;Parda;55.26;RN
+2407104;Macaíba;Preta;5.86;RN
+2407104;Macaíba;Parda;62.74;RN
+2407203;Macau;Preta;13.13;RN
+2407203;Macau;Parda;55.45;RN
+2407252;Major Sales;Preta;1.24;RN
+2407252;Major Sales;Parda;59.85;RN
+2407302;Marcelino Vieira;Preta;5.91;RN
+2407302;Marcelino Vieira;Parda;43.05;RN
+2407401;Martins;Preta;4.51;RN
+2407401;Martins;Parda;51.92;RN
+2407500;Maxaranguape;Preta;6.03;RN
+2407500;Maxaranguape;Parda;69.88;RN
+2407609;Messias Targino;Preta;3.38;RN
+2407609;Messias Targino;Parda;61.98;RN
+2407708;Montanhas;Preta;4.6;RN
+2407708;Montanhas;Parda;55.89;RN
+2407807;Monte Alegre;Preta;3.45;RN
+2407807;Monte Alegre;Parda;62.16;RN
+2407906;Monte das Gameleiras;Preta;5.62;RN
+2407906;Monte das Gameleiras;Parda;45.85;RN
+2408003;Mossoró;Preta;6.32;RN
+2408003;Mossoró;Parda;49.91;RN
+2408102;Natal;Preta;4.68;RN
+2408102;Natal;Parda;49.84;RN
+2408201;Nísia Floresta;Preta;6.74;RN
+2408201;Nísia Floresta;Parda;60.75;RN
+2408300;Nova Cruz;Preta;2.78;RN
+2408300;Nova Cruz;Parda;55.34;RN
+2408409;Olho d'Água do Borges;Preta;2.33;RN
+2408409;Olho d'Água do Borges;Parda;52.44;RN
+2408508;Ouro Branco;Preta;2.08;RN
+2408508;Ouro Branco;Parda;30.4;RN
+2408607;Paraná;Preta;1.62;RN
+2408607;Paraná;Parda;48.78;RN
+2408706;Paraú;Preta;6.16;RN
+2408706;Paraú;Parda;57.37;RN
+2408805;Parazinho;Preta;4.11;RN
+2408805;Parazinho;Parda;68.71;RN
+2408904;Parelhas;Preta;6.84;RN
+2408904;Parelhas;Parda;25.92;RN
+2408953;Rio do Fogo;Preta;5.24;RN
+2408953;Rio do Fogo;Parda;68.26;RN
+2409100;Passa e Fica;Preta;3.41;RN
+2409100;Passa e Fica;Parda;53.6;RN
+2409209;Passagem;Preta;3.68;RN
+2409209;Passagem;Parda;57.29;RN
+2409308;Patu;Preta;8.39;RN
+2409308;Patu;Parda;41.2;RN
+2409332;Santa Maria;Preta;0.79;RN
+2409332;Santa Maria;Parda;70.79;RN
+2409407;Pau dos Ferros;Preta;6.49;RN
+2409407;Pau dos Ferros;Parda;38.34;RN
+2409506;Pedra Grande;Preta;6.36;RN
+2409506;Pedra Grande;Parda;62.96;RN
+2409605;Pedra Preta;Preta;1.05;RN
+2409605;Pedra Preta;Parda;70.78;RN
+2409704;Pedro Avelino;Preta;2.38;RN
+2409704;Pedro Avelino;Parda;66.93;RN
+2409803;Pedro Velho;Preta;3.75;RN
+2409803;Pedro Velho;Parda;58.25;RN
+2409902;Pendências;Preta;11.79;RN
+2409902;Pendências;Parda;55.71;RN
+2410009;Pilões;Preta;7.61;RN
+2410009;Pilões;Parda;52.51;RN
+2410108;Poço Branco;Preta;2.02;RN
+2410108;Poço Branco;Parda;69.51;RN
+2410207;Portalegre;Preta;11.05;RN
+2410207;Portalegre;Parda;48.21;RN
+2410256;Porto do Mangue;Preta;4.3;RN
+2410256;Porto do Mangue;Parda;66.2;RN
+2410306;Serra Caiada;Preta;6.36;RN
+2410306;Serra Caiada;Parda;53.01;RN
+2410405;Pureza;Preta;5.48;RN
+2410405;Pureza;Parda;65.43;RN
+2410504;Rafael Fernandes;Preta;4.59;RN
+2410504;Rafael Fernandes;Parda;34.35;RN
+2410603;Rafael Godeiro;Preta;3.67;RN
+2410603;Rafael Godeiro;Parda;31.58;RN
+2410702;Riacho da Cruz;Preta;12.6;RN
+2410702;Riacho da Cruz;Parda;50.3;RN
+2410801;Riacho de Santana;Preta;1.46;RN
+2410801;Riacho de Santana;Parda;42.69;RN
+2410900;Riachuelo;Preta;3.46;RN
+2410900;Riachuelo;Parda;72.57;RN
+2411007;Rodolfo Fernandes;Preta;7.18;RN
+2411007;Rodolfo Fernandes;Parda;49.01;RN
+2411056;Tibau;Preta;5.42;RN
+2411056;Tibau;Parda;55.47;RN
+2411106;Ruy Barbosa;Preta;0.91;RN
+2411106;Ruy Barbosa;Parda;76.31;RN
+2411205;Santa Cruz;Preta;4.9;RN
+2411205;Santa Cruz;Parda;53.3;RN
+2411403;Santana do Matos;Preta;2.89;RN
+2411403;Santana do Matos;Parda;57.11;RN
+2411429;Santana do Seridó;Preta;6.17;RN
+2411429;Santana do Seridó;Parda;22.75;RN
+2411502;Santo Antônio;Preta;1.97;RN
+2411502;Santo Antônio;Parda;57.93;RN
+2411601;São Bento do Norte;Preta;9.31;RN
+2411601;São Bento do Norte;Parda;63.27;RN
+2411700;São Bento do Trairí;Preta;5.02;RN
+2411700;São Bento do Trairí;Parda;58.26;RN
+2411809;São Fernando;Preta;1.89;RN
+2411809;São Fernando;Parda;28.39;RN
+2411908;São Francisco do Oeste;Preta;4.16;RN
+2411908;São Francisco do Oeste;Parda;42.26;RN
+2412005;São Gonçalo do Amarante;Preta;8.2;RN
+2412005;São Gonçalo do Amarante;Parda;59.28;RN
+2412104;São João do Sabugi;Preta;4.61;RN
+2412104;São João do Sabugi;Parda;36.31;RN
+2412203;São José de Mipibu;Preta;4.59;RN
+2412203;São José de Mipibu;Parda;61.25;RN
+2412302;São José do Campestre;Preta;4.18;RN
+2412302;São José do Campestre;Parda;59.08;RN
+2412401;São José do Seridó;Preta;5.42;RN
+2412401;São José do Seridó;Parda;30.33;RN
+2412500;São Miguel;Preta;3.89;RN
+2412500;São Miguel;Parda;31.36;RN
+2412559;São Miguel do Gostoso;Preta;9.94;RN
+2412559;São Miguel do Gostoso;Parda;56.23;RN
+2412609;São Paulo do Potengi;Preta;4.74;RN
+2412609;São Paulo do Potengi;Parda;58.88;RN
+2412708;São Pedro;Preta;3.92;RN
+2412708;São Pedro;Parda;69.02;RN
+2412807;São Rafael;Preta;2.32;RN
+2412807;São Rafael;Parda;49.02;RN
+2412906;São Tomé;Preta;4.42;RN
+2412906;São Tomé;Parda;61.98;RN
+2413003;São Vicente;Preta;1.52;RN
+2413003;São Vicente;Parda;44.86;RN
+2413102;Senador Elói de Souza;Preta;4.99;RN
+2413102;Senador Elói de Souza;Parda;69.97;RN
+2413201;Senador Georgino Avelino;Preta;5.19;RN
+2413201;Senador Georgino Avelino;Parda;67.28;RN
+2413300;Serra de São Bento;Preta;4.85;RN
+2413300;Serra de São Bento;Parda;56.38;RN
+2413359;Serra do Mel;Preta;4.9;RN
+2413359;Serra do Mel;Parda;58.72;RN
+2413409;Serra Negra do Norte;Preta;5.1;RN
+2413409;Serra Negra do Norte;Parda;50.83;RN
+2413508;Serrinha;Preta;2.29;RN
+2413508;Serrinha;Parda;65.08;RN
+2413557;Serrinha dos Pintos;Preta;5.75;RN
+2413557;Serrinha dos Pintos;Parda;28.81;RN
+2413607;Severiano Melo;Preta;3.33;RN
+2413607;Severiano Melo;Parda;56.0;RN
+2413706;Sítio Novo;Preta;1.29;RN
+2413706;Sítio Novo;Parda;50.92;RN
+2413805;Taboleiro Grande;Preta;9.59;RN
+2413805;Taboleiro Grande;Parda;37.27;RN
+2413904;Taipu;Preta;7.62;RN
+2413904;Taipu;Parda;64.96;RN
+2414001;Tangará;Preta;3.76;RN
+2414001;Tangará;Parda;58.86;RN
+2414100;Tenente Ananias;Preta;3.34;RN
+2414100;Tenente Ananias;Parda;51.83;RN
+2414159;Tenente Laurentino Cruz;Preta;1.53;RN
+2414159;Tenente Laurentino Cruz;Parda;57.43;RN
+2414209;Tibau do Sul;Preta;7.36;RN
+2414209;Tibau do Sul;Parda;58.69;RN
+2414308;Timbaúba dos Batistas;Preta;5.76;RN
+2414308;Timbaúba dos Batistas;Parda;42.97;RN
+2414407;Touros;Preta;3.94;RN
+2414407;Touros;Parda;65.03;RN
+2414456;Triunfo Potiguar;Preta;2.79;RN
+2414456;Triunfo Potiguar;Parda;58.35;RN
+2414506;Umarizal;Preta;1.7;RN
+2414506;Umarizal;Parda;47.91;RN
+2414605;Upanema;Preta;4.61;RN
+2414605;Upanema;Parda;56.98;RN
+2414704;Várzea;Preta;3.03;RN
+2414704;Várzea;Parda;55.95;RN
+2414753;Venha-Ver;Preta;0.58;RN
+2414753;Venha-Ver;Parda;43.71;RN
+2414803;Vera Cruz;Preta;3.55;RN
+2414803;Vera Cruz;Parda;52.82;RN
+2414902;Viçosa;Preta;5.73;RN
+2414902;Viçosa;Parda;66.28;RN
+2415008;Vila Flor;Preta;6.09;RN
+2415008;Vila Flor;Parda;62.19;RN
+2500106;Água Branca;Preta;1.61;PB
+2500106;Água Branca;Parda;59.74;PB
+2500205;Aguiar;Preta;1.32;PB
+2500205;Aguiar;Parda;56.24;PB
+2500304;Alagoa Grande;Preta;8.7;PB
+2500304;Alagoa Grande;Parda;62.01;PB
+2500403;Alagoa Nova;Preta;4.53;PB
+2500403;Alagoa Nova;Parda;65.29;PB
+2500502;Alagoinha;Preta;4.64;PB
+2500502;Alagoinha;Parda;68.71;PB
+2500536;Alcantil;Preta;3.79;PB
+2500536;Alcantil;Parda;55.26;PB
+2500577;Algodão de Jandaíra;Preta;6.09;PB
+2500577;Algodão de Jandaíra;Parda;55.51;PB
+2500601;Alhandra;Preta;6.85;PB
+2500601;Alhandra;Parda;60.77;PB
+2500700;São João do Rio do Peixe;Preta;5.24;PB
+2500700;São João do Rio do Peixe;Parda;45.05;PB
+2500734;Amparo;Preta;2.56;PB
+2500734;Amparo;Parda;52.01;PB
+2500775;Aparecida;Preta;9.84;PB
+2500775;Aparecida;Parda;56.92;PB
+2500809;Araçagi;Preta;7.94;PB
+2500809;Araçagi;Parda;52.55;PB
+2500908;Arara;Preta;2.16;PB
+2500908;Arara;Parda;64.42;PB
+2501005;Araruna;Preta;2.96;PB
+2501005;Araruna;Parda;60.27;PB
+2501104;Areia;Preta;8.99;PB
+2501104;Areia;Parda;56.91;PB
+2501153;Areia de Baraúnas;Preta;1.22;PB
+2501153;Areia de Baraúnas;Parda;60.47;PB
+2501203;Areial;Preta;4.07;PB
+2501203;Areial;Parda;56.92;PB
+2501302;Aroeiras;Preta;3.1;PB
+2501302;Aroeiras;Parda;57.66;PB
+2501351;Assunção;Preta;4.26;PB
+2501351;Assunção;Parda;61.13;PB
+2501401;Baía da Traição;Preta;2.12;PB
+2501401;Baía da Traição;Parda;12.16;PB
+2501500;Bananeiras;Preta;4.89;PB
+2501500;Bananeiras;Parda;58.36;PB
+2501534;Baraúna;Preta;5.6;PB
+2501534;Baraúna;Parda;57.08;PB
+2501575;Barra de Santana;Preta;2.36;PB
+2501575;Barra de Santana;Parda;52.52;PB
+2501609;Barra de Santa Rosa;Preta;4.62;PB
+2501609;Barra de Santa Rosa;Parda;56.77;PB
+2501708;Barra de São Miguel;Preta;5.97;PB
+2501708;Barra de São Miguel;Parda;35.83;PB
+2501807;Bayeux;Preta;10.79;PB
+2501807;Bayeux;Parda;51.24;PB
+2501906;Belém;Preta;2.19;PB
+2501906;Belém;Parda;62.36;PB
+2502003;Belém do Brejo do Cruz;Preta;3.1;PB
+2502003;Belém do Brejo do Cruz;Parda;61.95;PB
+2502052;Bernardino Batista;Preta;4.1;PB
+2502052;Bernardino Batista;Parda;59.04;PB
+2502102;Boa Ventura;Preta;5.93;PB
+2502102;Boa Ventura;Parda;53.14;PB
+2502151;Boa Vista;Preta;4.79;PB
+2502151;Boa Vista;Parda;42.54;PB
+2502201;Bom Jesus;Preta;5.7;PB
+2502201;Bom Jesus;Parda;54.41;PB
+2502300;Bom Sucesso;Preta;2.21;PB
+2502300;Bom Sucesso;Parda;58.6;PB
+2502409;Bonito de Santa Fé;Preta;2.08;PB
+2502409;Bonito de Santa Fé;Parda;66.14;PB
+2502508;Boqueirão;Preta;4.05;PB
+2502508;Boqueirão;Parda;49.86;PB
+2502607;Igaracy;Preta;3.55;PB
+2502607;Igaracy;Parda;50.58;PB
+2502706;Borborema;Preta;8.89;PB
+2502706;Borborema;Parda;59.21;PB
+2502805;Brejo do Cruz;Preta;1.58;PB
+2502805;Brejo do Cruz;Parda;57.03;PB
+2502904;Brejo dos Santos;Preta;0.96;PB
+2502904;Brejo dos Santos;Parda;50.25;PB
+2503001;Caaporã;Preta;9.1;PB
+2503001;Caaporã;Parda;63.19;PB
+2503100;Cabaceiras;Preta;4.9;PB
+2503100;Cabaceiras;Parda;43.87;PB
+2503209;Cabedelo;Preta;7.5;PB
+2503209;Cabedelo;Parda;50.95;PB
+2503308;Cachoeira dos Índios;Preta;3.9;PB
+2503308;Cachoeira dos Índios;Parda;59.24;PB
+2503407;Cacimba de Areia;Preta;4.34;PB
+2503407;Cacimba de Areia;Parda;65.87;PB
+2503506;Cacimba de Dentro;Preta;2.03;PB
+2503506;Cacimba de Dentro;Parda;66.05;PB
+2503555;Cacimbas;Preta;7.45;PB
+2503555;Cacimbas;Parda;61.99;PB
+2503605;Caiçara;Preta;3.91;PB
+2503605;Caiçara;Parda;63.41;PB
+2503704;Cajazeiras;Preta;4.15;PB
+2503704;Cajazeiras;Parda;49.18;PB
+2503753;Cajazeirinhas;Preta;12.63;PB
+2503753;Cajazeirinhas;Parda;46.51;PB
+2503803;Caldas Brandão;Preta;6.85;PB
+2503803;Caldas Brandão;Parda;52.38;PB
+2503902;Camalaú;Preta;3.97;PB
+2503902;Camalaú;Parda;58.87;PB
+2504009;Campina Grande;Preta;5.52;PB
+2504009;Campina Grande;Parda;49.56;PB
+2504033;Capim;Preta;4.99;PB
+2504033;Capim;Parda;53.56;PB
+2504074;Caraúbas;Preta;2.93;PB
+2504074;Caraúbas;Parda;58.07;PB
+2504108;Carrapateira;Preta;2.29;PB
+2504108;Carrapateira;Parda;32.99;PB
+2504157;Casserengue;Preta;2.02;PB
+2504157;Casserengue;Parda;65.09;PB
+2504207;Catingueira;Preta;5.86;PB
+2504207;Catingueira;Parda;62.5;PB
+2504306;Catolé do Rocha;Preta;5.75;PB
+2504306;Catolé do Rocha;Parda;50.58;PB
+2504355;Caturité;Preta;1.34;PB
+2504355;Caturité;Parda;50.03;PB
+2504405;Conceição;Preta;4.75;PB
+2504405;Conceição;Parda;60.64;PB
+2504504;Condado;Preta;5.07;PB
+2504504;Condado;Parda;49.84;PB
+2504603;Conde;Preta;13.08;PB
+2504603;Conde;Parda;55.82;PB
+2504702;Congo;Preta;3.39;PB
+2504702;Congo;Parda;59.92;PB
+2504801;Coremas;Preta;8.03;PB
+2504801;Coremas;Parda;41.71;PB
+2504850;Coxixola;Preta;0.85;PB
+2504850;Coxixola;Parda;50.23;PB
+2504900;Cruz do Espírito Santo;Preta;4.24;PB
+2504900;Cruz do Espírito Santo;Parda;64.4;PB
+2505006;Cubati;Preta;6.49;PB
+2505006;Cubati;Parda;45.51;PB
+2505105;Cuité;Preta;2.53;PB
+2505105;Cuité;Parda;57.83;PB
+2505204;Cuitegi;Preta;9.89;PB
+2505204;Cuitegi;Parda;57.89;PB
+2505238;Cuité de Mamanguape;Preta;3.17;PB
+2505238;Cuité de Mamanguape;Parda;62.89;PB
+2505279;Curral de Cima;Preta;4.32;PB
+2505279;Curral de Cima;Parda;69.99;PB
+2505303;Curral Velho;Preta;5.74;PB
+2505303;Curral Velho;Parda;59.18;PB
+2505352;Damião;Preta;2.58;PB
+2505352;Damião;Parda;61.02;PB
+2505402;Desterro;Preta;6.73;PB
+2505402;Desterro;Parda;55.82;PB
+2505501;Vista Serrana;Preta;8.43;PB
+2505501;Vista Serrana;Parda;31.22;PB
+2505600;Diamante;Preta;7.07;PB
+2505600;Diamante;Parda;67.8;PB
+2505709;Dona Inês;Preta;4.73;PB
+2505709;Dona Inês;Parda;62.9;PB
+2505808;Duas Estradas;Preta;3.19;PB
+2505808;Duas Estradas;Parda;55.98;PB
+2505907;Emas;Preta;6.44;PB
+2505907;Emas;Parda;56.83;PB
+2506004;Esperança;Preta;2.47;PB
+2506004;Esperança;Parda;54.84;PB
+2506103;Fagundes;Preta;3.27;PB
+2506103;Fagundes;Parda;60.34;PB
+2506202;Frei Martinho;Preta;2.52;PB
+2506202;Frei Martinho;Parda;56.32;PB
+2506251;Gado Bravo;Preta;1.95;PB
+2506251;Gado Bravo;Parda;57.03;PB
+2506301;Guarabira;Preta;5.96;PB
+2506301;Guarabira;Parda;51.63;PB
+2506400;Gurinhém;Preta;4.89;PB
+2506400;Gurinhém;Parda;65.23;PB
+2506509;Gurjão;Preta;3.78;PB
+2506509;Gurjão;Parda;53.0;PB
+2506608;Ibiara;Preta;1.63;PB
+2506608;Ibiara;Parda;69.28;PB
+2506707;Imaculada;Preta;2.92;PB
+2506707;Imaculada;Parda;64.45;PB
+2506806;Ingá;Preta;4.82;PB
+2506806;Ingá;Parda;62.73;PB
+2506905;Itabaiana;Preta;4.46;PB
+2506905;Itabaiana;Parda;53.08;PB
+2507002;Itaporanga;Preta;6.99;PB
+2507002;Itaporanga;Parda;48.06;PB
+2507101;Itapororoca;Preta;2.11;PB
+2507101;Itapororoca;Parda;57.01;PB
+2507200;Itatuba;Preta;9.83;PB
+2507200;Itatuba;Parda;58.79;PB
+2507309;Jacaraú;Preta;3.84;PB
+2507309;Jacaraú;Parda;53.68;PB
+2507408;Jericó;Preta;1.31;PB
+2507408;Jericó;Parda;57.46;PB
+2507507;João Pessoa;Preta;6.6;PB
+2507507;João Pessoa;Parda;46.93;PB
+2507606;Juarez Távora;Preta;4.79;PB
+2507606;Juarez Távora;Parda;63.42;PB
+2507705;Juazeirinho;Preta;5.79;PB
+2507705;Juazeirinho;Parda;59.16;PB
+2507804;Junco do Seridó;Preta;5.41;PB
+2507804;Junco do Seridó;Parda;56.82;PB
+2507903;Juripiranga;Preta;2.23;PB
+2507903;Juripiranga;Parda;69.46;PB
+2508000;Juru;Preta;1.56;PB
+2508000;Juru;Parda;59.56;PB
+2508109;Lagoa;Preta;2.17;PB
+2508109;Lagoa;Parda;53.98;PB
+2508208;Lagoa de Dentro;Preta;2.15;PB
+2508208;Lagoa de Dentro;Parda;60.97;PB
+2508307;Lagoa Seca;Preta;5.7;PB
+2508307;Lagoa Seca;Parda;53.46;PB
+2508406;Lastro;Preta;4.3;PB
+2508406;Lastro;Parda;56.3;PB
+2508505;Livramento;Preta;3.69;PB
+2508505;Livramento;Parda;51.79;PB
+2508554;Logradouro;Preta;3.3;PB
+2508554;Logradouro;Parda;55.38;PB
+2508604;Lucena;Preta;7.63;PB
+2508604;Lucena;Parda;60.88;PB
+2508703;Mãe d'Água;Preta;2.71;PB
+2508703;Mãe d'Água;Parda;64.61;PB
+2508802;Malta;Preta;5.06;PB
+2508802;Malta;Parda;53.25;PB
+2508901;Mamanguape;Preta;4.86;PB
+2508901;Mamanguape;Parda;59.53;PB
+2509008;Manaíra;Preta;3.34;PB
+2509008;Manaíra;Parda;64.39;PB
+2509057;Marcação;Preta;0.96;PB
+2509057;Marcação;Parda;11.14;PB
+2509107;Mari;Preta;5.94;PB
+2509107;Mari;Parda;54.9;PB
+2509156;Marizópolis;Preta;6.16;PB
+2509156;Marizópolis;Parda;49.49;PB
+2509206;Massaranduba;Preta;4.26;PB
+2509206;Massaranduba;Parda;53.82;PB
+2509305;Mataraca;Preta;4.54;PB
+2509305;Mataraca;Parda;58.83;PB
+2509339;Matinhas;Preta;4.47;PB
+2509339;Matinhas;Parda;60.92;PB
+2509370;Mato Grosso;Preta;1.21;PB
+2509370;Mato Grosso;Parda;69.58;PB
+2509396;Maturéia;Preta;10.35;PB
+2509396;Maturéia;Parda;51.47;PB
+2509404;Mogeiro;Preta;6.69;PB
+2509404;Mogeiro;Parda;59.81;PB
+2509503;Montadas;Preta;1.19;PB
+2509503;Montadas;Parda;57.86;PB
+2509602;Monte Horebe;Preta;9.28;PB
+2509602;Monte Horebe;Parda;50.07;PB
+2509701;Monteiro;Preta;3.49;PB
+2509701;Monteiro;Parda;58.54;PB
+2509800;Mulungu;Preta;7.81;PB
+2509800;Mulungu;Parda;56.01;PB
+2509909;Natuba;Preta;8.06;PB
+2509909;Natuba;Parda;49.05;PB
+2510006;Nazarezinho;Preta;1.33;PB
+2510006;Nazarezinho;Parda;56.15;PB
+2510105;Nova Floresta;Preta;3.99;PB
+2510105;Nova Floresta;Parda;56.54;PB
+2510204;Nova Olinda;Preta;5.37;PB
+2510204;Nova Olinda;Parda;65.69;PB
+2510303;Nova Palmeira;Preta;4.14;PB
+2510303;Nova Palmeira;Parda;45.65;PB
+2510402;Olho d'Água;Preta;5.51;PB
+2510402;Olho d'Água;Parda;33.05;PB
+2510501;Olivedos;Preta;3.95;PB
+2510501;Olivedos;Parda;47.44;PB
+2510600;Ouro Velho;Preta;9.96;PB
+2510600;Ouro Velho;Parda;51.9;PB
+2510659;Parari;Preta;2.94;PB
+2510659;Parari;Parda;43.74;PB
+2510709;Passagem;Preta;2.44;PB
+2510709;Passagem;Parda;58.29;PB
+2510808;Patos;Preta;5.59;PB
+2510808;Patos;Parda;47.9;PB
+2510907;Paulista;Preta;2.13;PB
+2510907;Paulista;Parda;57.81;PB
+2511004;Pedra Branca;Preta;6.23;PB
+2511004;Pedra Branca;Parda;53.36;PB
+2511103;Pedra Lavrada;Preta;3.14;PB
+2511103;Pedra Lavrada;Parda;42.08;PB
+2511202;Pedras de Fogo;Preta;6.04;PB
+2511202;Pedras de Fogo;Parda;57.95;PB
+2511301;Piancó;Preta;3.29;PB
+2511301;Piancó;Parda;47.63;PB
+2511400;Picuí;Preta;6.14;PB
+2511400;Picuí;Parda;51.28;PB
+2511509;Pilar;Preta;9.93;PB
+2511509;Pilar;Parda;56.52;PB
+2511608;Pilões;Preta;5.47;PB
+2511608;Pilões;Parda;63.82;PB
+2511707;Pilõezinhos;Preta;3.79;PB
+2511707;Pilõezinhos;Parda;67.43;PB
+2511806;Pirpirituba;Preta;7.54;PB
+2511806;Pirpirituba;Parda;58.67;PB
+2511905;Pitimbu;Preta;8.27;PB
+2511905;Pitimbu;Parda;66.23;PB
+2512002;Pocinhos;Preta;4.85;PB
+2512002;Pocinhos;Parda;50.1;PB
+2512036;Poço Dantas;Preta;1.56;PB
+2512036;Poço Dantas;Parda;60.42;PB
+2512077;Poço de José de Moura;Preta;3.06;PB
+2512077;Poço de José de Moura;Parda;63.65;PB
+2512101;Pombal;Preta;8.56;PB
+2512101;Pombal;Parda;43.1;PB
+2512200;Prata;Preta;6.45;PB
+2512200;Prata;Parda;58.45;PB
+2512309;Princesa Isabel;Preta;2.68;PB
+2512309;Princesa Isabel;Parda;56.84;PB
+2512408;Puxinanã;Preta;3.56;PB
+2512408;Puxinanã;Parda;53.17;PB
+2512507;Queimadas;Preta;2.61;PB
+2512507;Queimadas;Parda;55.29;PB
+2512606;Quixaba;Preta;8.95;PB
+2512606;Quixaba;Parda;52.42;PB
+2512705;Remígio;Preta;2.97;PB
+2512705;Remígio;Parda;60.07;PB
+2512721;Pedro Régis;Preta;2.39;PB
+2512721;Pedro Régis;Parda;57.16;PB
+2512747;Riachão;Preta;3.73;PB
+2512747;Riachão;Parda;77.06;PB
+2512754;Riachão do Bacamarte;Preta;5.12;PB
+2512754;Riachão do Bacamarte;Parda;61.0;PB
+2512762;Riachão do Poço;Preta;1.82;PB
+2512762;Riachão do Poço;Parda;51.51;PB
+2512788;Riacho de Santo Antônio;Preta;1.35;PB
+2512788;Riacho de Santo Antônio;Parda;54.26;PB
+2512804;Riacho dos Cavalos;Preta;3.04;PB
+2512804;Riacho dos Cavalos;Parda;48.51;PB
+2512903;Rio Tinto;Preta;4.27;PB
+2512903;Rio Tinto;Parda;52.03;PB
+2513000;Salgadinho;Preta;10.19;PB
+2513000;Salgadinho;Parda;56.39;PB
+2513109;Salgado de São Félix;Preta;5.23;PB
+2513109;Salgado de São Félix;Parda;56.01;PB
+2513158;Santa Cecília;Preta;1.21;PB
+2513158;Santa Cecília;Parda;53.78;PB
+2513208;Santa Cruz;Preta;3.16;PB
+2513208;Santa Cruz;Parda;43.31;PB
+2513307;Santa Helena;Preta;1.12;PB
+2513307;Santa Helena;Parda;62.2;PB
+2513356;Santa Inês;Preta;7.65;PB
+2513356;Santa Inês;Parda;59.71;PB
+2513406;Santa Luzia;Preta;7.37;PB
+2513406;Santa Luzia;Parda;44.51;PB
+2513505;Santana de Mangueira;Preta;2.79;PB
+2513505;Santana de Mangueira;Parda;66.53;PB
+2513604;Santana dos Garrotes;Preta;5.5;PB
+2513604;Santana dos Garrotes;Parda;53.79;PB
+2513653;Joca Claudino;Preta;5.94;PB
+2513653;Joca Claudino;Parda;66.7;PB
+2513703;Santa Rita;Preta;8.29;PB
+2513703;Santa Rita;Parda;57.98;PB
+2513802;Santa Teresinha;Preta;2.74;PB
+2513802;Santa Teresinha;Parda;56.98;PB
+2513851;Santo André;Preta;4.74;PB
+2513851;Santo André;Parda;46.37;PB
+2513901;São Bento;Preta;2.54;PB
+2513901;São Bento;Parda;52.39;PB
+2513927;São Bentinho;Preta;6.65;PB
+2513927;São Bentinho;Parda;49.73;PB
+2513943;São Domingos do Cariri;Preta;1.85;PB
+2513943;São Domingos do Cariri;Parda;49.59;PB
+2513968;São Domingos;Preta;15.2;PB
+2513968;São Domingos;Parda;45.94;PB
+2513984;São Francisco;Preta;10.85;PB
+2513984;São Francisco;Parda;40.61;PB
+2514008;São João do Cariri;Preta;2.82;PB
+2514008;São João do Cariri;Parda;57.3;PB
+2514107;São João do Tigre;Preta;10.92;PB
+2514107;São João do Tigre;Parda;58.04;PB
+2514206;São José da Lagoa Tapada;Preta;3.15;PB
+2514206;São José da Lagoa Tapada;Parda;58.31;PB
+2514305;São José de Caiana;Preta;3.25;PB
+2514305;São José de Caiana;Parda;61.81;PB
+2514404;São José de Espinharas;Preta;5.81;PB
+2514404;São José de Espinharas;Parda;54.13;PB
+2514453;São José dos Ramos;Preta;5.63;PB
+2514453;São José dos Ramos;Parda;58.95;PB
+2514503;São José de Piranhas;Preta;5.27;PB
+2514503;São José de Piranhas;Parda;47.97;PB
+2514552;São José de Princesa;Preta;3.84;PB
+2514552;São José de Princesa;Parda;61.23;PB
+2514602;São José do Bonfim;Preta;2.5;PB
+2514602;São José do Bonfim;Parda;65.71;PB
+2514651;São José do Brejo do Cruz;Preta;0.92;PB
+2514651;São José do Brejo do Cruz;Parda;63.74;PB
+2514701;São José do Sabugi;Preta;1.93;PB
+2514701;São José do Sabugi;Parda;43.92;PB
+2514800;São José dos Cordeiros;Preta;0.77;PB
+2514800;São José dos Cordeiros;Parda;55.32;PB
+2514909;São Mamede;Preta;3.12;PB
+2514909;São Mamede;Parda;44.1;PB
+2515005;São Miguel de Taipu;Preta;10.01;PB
+2515005;São Miguel de Taipu;Parda;56.02;PB
+2515104;São Sebastião de Lagoa de Roça;Preta;5.2;PB
+2515104;São Sebastião de Lagoa de Roça;Parda;56.48;PB
+2515203;São Sebastião do Umbuzeiro;Preta;2.1;PB
+2515203;São Sebastião do Umbuzeiro;Parda;63.17;PB
+2515302;Sapé;Preta;4.28;PB
+2515302;Sapé;Parda;59.28;PB
+2515401;São Vicente do Seridó;Preta;7.82;PB
+2515401;São Vicente do Seridó;Parda;60.46;PB
+2515500;Serra Branca;Preta;4.12;PB
+2515500;Serra Branca;Parda;53.3;PB
+2515609;Serra da Raiz;Preta;5.27;PB
+2515609;Serra da Raiz;Parda;60.56;PB
+2515708;Serra Grande;Preta;3.17;PB
+2515708;Serra Grande;Parda;75.99;PB
+2515807;Serra Redonda;Preta;3.56;PB
+2515807;Serra Redonda;Parda;56.77;PB
+2515906;Serraria;Preta;2.98;PB
+2515906;Serraria;Parda;64.5;PB
+2515930;Sertãozinho;Preta;4.53;PB
+2515930;Sertãozinho;Parda;66.44;PB
+2515971;Sobrado;Preta;3.15;PB
+2515971;Sobrado;Parda;62.14;PB
+2516003;Solânea;Preta;3.92;PB
+2516003;Solânea;Parda;57.33;PB
+2516102;Soledade;Preta;3.65;PB
+2516102;Soledade;Parda;52.0;PB
+2516151;Sossêgo;Preta;1.96;PB
+2516151;Sossêgo;Parda;53.44;PB
+2516201;Sousa;Preta;7.5;PB
+2516201;Sousa;Parda;47.76;PB
+2516300;Sumé;Preta;4.05;PB
+2516300;Sumé;Parda;55.0;PB
+2516409;Tacima;Preta;4.93;PB
+2516409;Tacima;Parda;59.31;PB
+2516508;Taperoá;Preta;4.14;PB
+2516508;Taperoá;Parda;55.98;PB
+2516607;Tavares;Preta;7.36;PB
+2516607;Tavares;Parda;53.4;PB
+2516706;Teixeira;Preta;4.22;PB
+2516706;Teixeira;Parda;60.46;PB
+2516755;Tenório;Preta;1.55;PB
+2516755;Tenório;Parda;53.83;PB
+2516805;Triunfo;Preta;6.16;PB
+2516805;Triunfo;Parda;59.44;PB
+2516904;Uiraúna;Preta;6.72;PB
+2516904;Uiraúna;Parda;46.85;PB
+2517001;Umbuzeiro;Preta;4.0;PB
+2517001;Umbuzeiro;Parda;53.02;PB
+2517100;Várzea;Preta;5.59;PB
+2517100;Várzea;Parda;29.84;PB
+2517209;Vieirópolis;Preta;3.5;PB
+2517209;Vieirópolis;Parda;52.12;PB
+2517407;Zabelê;Preta;1.82;PB
+2517407;Zabelê;Parda;57.66;PB
+2600054;Abreu e Lima;Preta;7.96;PE
+2600054;Abreu e Lima;Parda;56.92;PE
+2600104;Afogados da Ingazeira;Preta;3.18;PE
+2600104;Afogados da Ingazeira;Parda;52.34;PE
+2600203;Afrânio;Preta;11.57;PE
+2600203;Afrânio;Parda;39.74;PE
+2600302;Agrestina;Preta;6.36;PE
+2600302;Agrestina;Parda;40.44;PE
+2600401;Água Preta;Preta;5.65;PE
+2600401;Água Preta;Parda;68.17;PE
+2600500;Águas Belas;Preta;4.29;PE
+2600500;Águas Belas;Parda;54.88;PE
+2600609;Alagoinha;Preta;5.37;PE
+2600609;Alagoinha;Parda;52.24;PE
+2600708;Aliança;Preta;5.81;PE
+2600708;Aliança;Parda;61.07;PE
+2600807;Altinho;Preta;3.42;PE
+2600807;Altinho;Parda;54.8;PE
+2600906;Amaraji;Preta;3.38;PE
+2600906;Amaraji;Parda;59.9;PE
+2601003;Angelim;Preta;3.89;PE
+2601003;Angelim;Parda;62.62;PE
+2601052;Araçoiaba;Preta;8.92;PE
+2601052;Araçoiaba;Parda;64.75;PE
+2601102;Araripina;Preta;7.55;PE
+2601102;Araripina;Parda;63.85;PE
+2601201;Arcoverde;Preta;5.68;PE
+2601201;Arcoverde;Parda;55.24;PE
+2601300;Barra de Guabiraba;Preta;2.98;PE
+2601300;Barra de Guabiraba;Parda;54.75;PE
+2601409;Barreiros;Preta;6.98;PE
+2601409;Barreiros;Parda;63.75;PE
+2601508;Belém de Maria;Preta;2.62;PE
+2601508;Belém de Maria;Parda;56.68;PE
+2601607;Belém do São Francisco;Preta;8.58;PE
+2601607;Belém do São Francisco;Parda;64.41;PE
+2601706;Belo Jardim;Preta;3.28;PE
+2601706;Belo Jardim;Parda;55.86;PE
+2601805;Betânia;Preta;12.67;PE
+2601805;Betânia;Parda;55.76;PE
+2601904;Bezerros;Preta;3.24;PE
+2601904;Bezerros;Parda;42.85;PE
+2602001;Bodocó;Preta;4.04;PE
+2602001;Bodocó;Parda;72.56;PE
+2602100;Bom Conselho;Preta;4.78;PE
+2602100;Bom Conselho;Parda;63.25;PE
+2602209;Bom Jardim;Preta;4.04;PE
+2602209;Bom Jardim;Parda;54.09;PE
+2602308;Bonito;Preta;2.2;PE
+2602308;Bonito;Parda;55.23;PE
+2602407;Brejão;Preta;5.38;PE
+2602407;Brejão;Parda;56.44;PE
+2602506;Brejinho;Preta;4.08;PE
+2602506;Brejinho;Parda;56.82;PE
+2602605;Brejo da Madre de Deus;Preta;3.88;PE
+2602605;Brejo da Madre de Deus;Parda;59.69;PE
+2602704;Buenos Aires;Preta;7.41;PE
+2602704;Buenos Aires;Parda;59.23;PE
+2602803;Buíque;Preta;3.46;PE
+2602803;Buíque;Parda;71.69;PE
+2602902;Cabo de Santo Agostinho;Preta;9.66;PE
+2602902;Cabo de Santo Agostinho;Parda;57.94;PE
+2603009;Cabrobó;Preta;9.69;PE
+2603009;Cabrobó;Parda;52.58;PE
+2603108;Cachoeirinha;Preta;4.28;PE
+2603108;Cachoeirinha;Parda;51.43;PE
+2603207;Caetés;Preta;3.47;PE
+2603207;Caetés;Parda;52.52;PE
+2603306;Calçado;Preta;3.29;PE
+2603306;Calçado;Parda;64.94;PE
+2603405;Calumbi;Preta;3.04;PE
+2603405;Calumbi;Parda;69.18;PE
+2603454;Camaragibe;Preta;7.94;PE
+2603454;Camaragibe;Parda;56.5;PE
+2603504;Camocim de São Félix;Preta;3.38;PE
+2603504;Camocim de São Félix;Parda;47.13;PE
+2603603;Camutanga;Preta;3.33;PE
+2603603;Camutanga;Parda;61.18;PE
+2603702;Canhotinho;Preta;3.56;PE
+2603702;Canhotinho;Parda;62.77;PE
+2603801;Capoeiras;Preta;4.03;PE
+2603801;Capoeiras;Parda;48.2;PE
+2603900;Carnaíba;Preta;4.57;PE
+2603900;Carnaíba;Parda;53.08;PE
+2603926;Carnaubeira da Penha;Preta;2.78;PE
+2603926;Carnaubeira da Penha;Parda;48.57;PE
+2604007;Carpina;Preta;7.17;PE
+2604007;Carpina;Parda;57.78;PE
+2604106;Caruaru;Preta;3.7;PE
+2604106;Caruaru;Parda;45.48;PE
+2604155;Casinhas;Preta;2.06;PE
+2604155;Casinhas;Parda;51.24;PE
+2604205;Catende;Preta;4.97;PE
+2604205;Catende;Parda;58.66;PE
+2604304;Cedro;Preta;5.52;PE
+2604304;Cedro;Parda;64.46;PE
+2604403;Chã de Alegria;Preta;5.27;PE
+2604403;Chã de Alegria;Parda;68.17;PE
+2604502;Chã Grande;Preta;3.05;PE
+2604502;Chã Grande;Parda;51.47;PE
+2604601;Condado;Preta;6.74;PE
+2604601;Condado;Parda;65.01;PE
+2604700;Correntes;Preta;3.85;PE
+2604700;Correntes;Parda;63.15;PE
+2604809;Cortês;Preta;3.6;PE
+2604809;Cortês;Parda;64.16;PE
+2604908;Cumaru;Preta;3.17;PE
+2604908;Cumaru;Parda;49.17;PE
+2605004;Cupira;Preta;1.32;PE
+2605004;Cupira;Parda;51.39;PE
+2605103;Custódia;Preta;4.58;PE
+2605103;Custódia;Parda;57.76;PE
+2605152;Dormentes;Preta;4.09;PE
+2605152;Dormentes;Parda;43.29;PE
+2605202;Escada;Preta;5.24;PE
+2605202;Escada;Parda;65.7;PE
+2605301;Exu;Preta;3.38;PE
+2605301;Exu;Parda;72.61;PE
+2605400;Feira Nova;Preta;4.95;PE
+2605400;Feira Nova;Parda;55.56;PE
+2605459;Fernando de Noronha;Preta;9.99;PE
+2605459;Fernando de Noronha;Parda;52.61;PE
+2605509;Ferreiros;Preta;3.64;PE
+2605509;Ferreiros;Parda;57.13;PE
+2605608;Flores;Preta;2.73;PE
+2605608;Flores;Parda;62.8;PE
+2605707;Floresta;Preta;3.88;PE
+2605707;Floresta;Parda;65.6;PE
+2605806;Frei Miguelinho;Preta;0.97;PE
+2605806;Frei Miguelinho;Parda;36.55;PE
+2605905;Gameleira;Preta;5.67;PE
+2605905;Gameleira;Parda;65.85;PE
+2606002;Garanhuns;Preta;4.61;PE
+2606002;Garanhuns;Parda;51.68;PE
+2606101;Glória do Goitá;Preta;5.97;PE
+2606101;Glória do Goitá;Parda;62.87;PE
+2606200;Goiana;Preta;7.46;PE
+2606200;Goiana;Parda;62.43;PE
+2606309;Granito;Preta;2.66;PE
+2606309;Granito;Parda;79.87;PE
+2606408;Gravatá;Preta;2.67;PE
+2606408;Gravatá;Parda;48.16;PE
+2606507;Iati;Preta;2.69;PE
+2606507;Iati;Parda;64.49;PE
+2606606;Ibimirim;Preta;2.86;PE
+2606606;Ibimirim;Parda;61.6;PE
+2606705;Ibirajuba;Preta;3.9;PE
+2606705;Ibirajuba;Parda;54.3;PE
+2606804;Igarassu;Preta;7.93;PE
+2606804;Igarassu;Parda;63.82;PE
+2606903;Iguaracy;Preta;2.73;PE
+2606903;Iguaracy;Parda;63.06;PE
+2607000;Inajá;Preta;6.27;PE
+2607000;Inajá;Parda;64.02;PE
+2607109;Ingazeira;Preta;3.12;PE
+2607109;Ingazeira;Parda;50.5;PE
+2607208;Ipojuca;Preta;8.22;PE
+2607208;Ipojuca;Parda;63.1;PE
+2607307;Ipubi;Preta;5.29;PE
+2607307;Ipubi;Parda;69.19;PE
+2607406;Itacuruba;Preta;24.43;PE
+2607406;Itacuruba;Parda;46.76;PE
+2607505;Itaíba;Preta;1.81;PE
+2607505;Itaíba;Parda;68.36;PE
+2607604;Ilha de Itamaracá;Preta;7.14;PE
+2607604;Ilha de Itamaracá;Parda;66.66;PE
+2607653;Itambé;Preta;7.19;PE
+2607653;Itambé;Parda;62.6;PE
+2607703;Itapetim;Preta;3.29;PE
+2607703;Itapetim;Parda;47.28;PE
+2607752;Itapissuma;Preta;11.37;PE
+2607752;Itapissuma;Parda;63.91;PE
+2607802;Itaquitinga;Preta;4.5;PE
+2607802;Itaquitinga;Parda;69.41;PE
+2607901;Jaboatão dos Guararapes;Preta;7.86;PE
+2607901;Jaboatão dos Guararapes;Parda;54.17;PE
+2607950;Jaqueira;Preta;7.21;PE
+2607950;Jaqueira;Parda;57.38;PE
+2608008;Jataúba;Preta;1.96;PE
+2608008;Jataúba;Parda;62.79;PE
+2608057;Jatobá;Preta;5.68;PE
+2608057;Jatobá;Parda;48.48;PE
+2608107;João Alfredo;Preta;3.05;PE
+2608107;João Alfredo;Parda;55.14;PE
+2608206;Joaquim Nabuco;Preta;5.8;PE
+2608206;Joaquim Nabuco;Parda;64.11;PE
+2608255;Jucati;Preta;5.2;PE
+2608255;Jucati;Parda;54.01;PE
+2608305;Jupi;Preta;3.23;PE
+2608305;Jupi;Parda;58.17;PE
+2608404;Jurema;Preta;2.15;PE
+2608404;Jurema;Parda;58.04;PE
+2608453;Lagoa do Carro;Preta;4.3;PE
+2608453;Lagoa do Carro;Parda;57.31;PE
+2608503;Lagoa de Itaenga;Preta;7.1;PE
+2608503;Lagoa de Itaenga;Parda;63.65;PE
+2608602;Lagoa do Ouro;Preta;2.28;PE
+2608602;Lagoa do Ouro;Parda;53.27;PE
+2608701;Lagoa dos Gatos;Preta;3.19;PE
+2608701;Lagoa dos Gatos;Parda;57.69;PE
+2608750;Lagoa Grande;Preta;7.27;PE
+2608750;Lagoa Grande;Parda;66.54;PE
+2608800;Lajedo;Preta;3.79;PE
+2608800;Lajedo;Parda;52.49;PE
+2608909;Limoeiro;Preta;5.72;PE
+2608909;Limoeiro;Parda;52.79;PE
+2609006;Macaparana;Preta;5.06;PE
+2609006;Macaparana;Parda;52.77;PE
+2609105;Machados;Preta;3.64;PE
+2609105;Machados;Parda;55.96;PE
+2609154;Manari;Preta;1.36;PE
+2609154;Manari;Parda;76.44;PE
+2609204;Maraial;Preta;2.86;PE
+2609204;Maraial;Parda;63.14;PE
+2609303;Mirandiba;Preta;10.79;PE
+2609303;Mirandiba;Parda;67.39;PE
+2609402;Moreno;Preta;6.09;PE
+2609402;Moreno;Parda;62.89;PE
+2609501;Nazaré da Mata;Preta;12.11;PE
+2609501;Nazaré da Mata;Parda;60.58;PE
+2609600;Olinda;Preta;9.9;PE
+2609600;Olinda;Parda;52.38;PE
+2609709;Orobó;Preta;6.98;PE
+2609709;Orobó;Parda;46.65;PE
+2609808;Orocó;Preta;12.0;PE
+2609808;Orocó;Parda;69.1;PE
+2609907;Ouricuri;Preta;5.78;PE
+2609907;Ouricuri;Parda;62.87;PE
+2610004;Palmares;Preta;6.63;PE
+2610004;Palmares;Parda;56.84;PE
+2610103;Palmeirina;Preta;2.35;PE
+2610103;Palmeirina;Parda;61.89;PE
+2610202;Panelas;Preta;5.01;PE
+2610202;Panelas;Parda;56.8;PE
+2610301;Paranatama;Preta;3.0;PE
+2610301;Paranatama;Parda;58.12;PE
+2610400;Parnamirim;Preta;2.73;PE
+2610400;Parnamirim;Parda;62.79;PE
+2610509;Passira;Preta;3.39;PE
+2610509;Passira;Parda;56.34;PE
+2610608;Paudalho;Preta;4.46;PE
+2610608;Paudalho;Parda;64.6;PE
+2610707;Paulista;Preta;9.79;PE
+2610707;Paulista;Parda;49.95;PE
+2610806;Pedra;Preta;4.28;PE
+2610806;Pedra;Parda;65.07;PE
+2610905;Pesqueira;Preta;2.31;PE
+2610905;Pesqueira;Parda;50.36;PE
+2611002;Petrolândia;Preta;5.5;PE
+2611002;Petrolândia;Parda;60.42;PE
+2611101;Petrolina;Preta;7.57;PE
+2611101;Petrolina;Parda;59.05;PE
+2611200;Poção;Preta;3.76;PE
+2611200;Poção;Parda;56.16;PE
+2611309;Pombos;Preta;3.07;PE
+2611309;Pombos;Parda;56.7;PE
+2611408;Primavera;Preta;6.93;PE
+2611408;Primavera;Parda;57.78;PE
+2611507;Quipapá;Preta;4.28;PE
+2611507;Quipapá;Parda;61.49;PE
+2611533;Quixaba;Preta;2.76;PE
+2611533;Quixaba;Parda;59.2;PE
+2611606;Recife;Preta;8.17;PE
+2611606;Recife;Parda;49.74;PE
+2611705;Riacho das Almas;Preta;2.79;PE
+2611705;Riacho das Almas;Parda;47.09;PE
+2611804;Ribeirão;Preta;5.95;PE
+2611804;Ribeirão;Parda;59.82;PE
+2611903;Rio Formoso;Preta;9.45;PE
+2611903;Rio Formoso;Parda;64.66;PE
+2612000;Sairé;Preta;4.49;PE
+2612000;Sairé;Parda;43.78;PE
+2612109;Salgadinho;Preta;9.43;PE
+2612109;Salgadinho;Parda;50.39;PE
+2612208;Salgueiro;Preta;8.63;PE
+2612208;Salgueiro;Parda;62.23;PE
+2612307;Saloá;Preta;2.98;PE
+2612307;Saloá;Parda;58.89;PE
+2612406;Sanharó;Preta;3.89;PE
+2612406;Sanharó;Parda;58.81;PE
+2612455;Santa Cruz;Preta;2.61;PE
+2612455;Santa Cruz;Parda;57.32;PE
+2612471;Santa Cruz da Baixa Verde;Preta;9.29;PE
+2612471;Santa Cruz da Baixa Verde;Parda;58.72;PE
+2612505;Santa Cruz do Capibaribe;Preta;2.79;PE
+2612505;Santa Cruz do Capibaribe;Parda;51.81;PE
+2612554;Santa Filomena;Preta;1.98;PE
+2612554;Santa Filomena;Parda;67.2;PE
+2612604;Santa Maria da Boa Vista;Preta;10.67;PE
+2612604;Santa Maria da Boa Vista;Parda;71.17;PE
+2612703;Santa Maria do Cambucá;Preta;5.12;PE
+2612703;Santa Maria do Cambucá;Parda;51.08;PE
+2612802;Santa Terezinha;Preta;4.38;PE
+2612802;Santa Terezinha;Parda;53.17;PE
+2612901;São Benedito do Sul;Preta;4.14;PE
+2612901;São Benedito do Sul;Parda;61.04;PE
+2613008;São Bento do Una;Preta;3.49;PE
+2613008;São Bento do Una;Parda;52.55;PE
+2613107;São Caitano;Preta;2.79;PE
+2613107;São Caitano;Parda;54.52;PE
+2613206;São João;Preta;2.51;PE
+2613206;São João;Parda;62.2;PE
+2613305;São Joaquim do Monte;Preta;1.75;PE
+2613305;São Joaquim do Monte;Parda;47.81;PE
+2613404;São José da Coroa Grande;Preta;6.95;PE
+2613404;São José da Coroa Grande;Parda;66.14;PE
+2613503;São José do Belmonte;Preta;6.02;PE
+2613503;São José do Belmonte;Parda;67.46;PE
+2613602;São José do Egito;Preta;4.95;PE
+2613602;São José do Egito;Parda;53.27;PE
+2613701;São Lourenço da Mata;Preta;8.91;PE
+2613701;São Lourenço da Mata;Parda;57.47;PE
+2613800;São Vicente Férrer;Preta;3.34;PE
+2613800;São Vicente Férrer;Parda;57.42;PE
+2613909;Serra Talhada;Preta;4.66;PE
+2613909;Serra Talhada;Parda;57.6;PE
+2614006;Serrita;Preta;3.13;PE
+2614006;Serrita;Parda;70.82;PE
+2614105;Sertânia;Preta;4.33;PE
+2614105;Sertânia;Parda;60.44;PE
+2614204;Sirinhaém;Preta;8.82;PE
+2614204;Sirinhaém;Parda;67.67;PE
+2614303;Moreilândia;Preta;4.33;PE
+2614303;Moreilândia;Parda;63.83;PE
+2614402;Solidão;Preta;3.5;PE
+2614402;Solidão;Parda;40.87;PE
+2614501;Surubim;Preta;1.39;PE
+2614501;Surubim;Parda;49.55;PE
+2614600;Tabira;Preta;3.25;PE
+2614600;Tabira;Parda;48.51;PE
+2614709;Tacaimbó;Preta;3.53;PE
+2614709;Tacaimbó;Parda;50.04;PE
+2614808;Tacaratu;Preta;6.01;PE
+2614808;Tacaratu;Parda;58.38;PE
+2614857;Tamandaré;Preta;5.27;PE
+2614857;Tamandaré;Parda;71.12;PE
+2615003;Taquaritinga do Norte;Preta;1.54;PE
+2615003;Taquaritinga do Norte;Parda;52.77;PE
+2615102;Terezinha;Preta;2.21;PE
+2615102;Terezinha;Parda;58.03;PE
+2615201;Terra Nova;Preta;5.31;PE
+2615201;Terra Nova;Parda;67.88;PE
+2615300;Timbaúba;Preta;5.35;PE
+2615300;Timbaúba;Parda;55.13;PE
+2615409;Toritama;Preta;1.77;PE
+2615409;Toritama;Parda;52.25;PE
+2615508;Tracunhaém;Preta;7.99;PE
+2615508;Tracunhaém;Parda;65.67;PE
+2615607;Trindade;Preta;4.56;PE
+2615607;Trindade;Parda;67.42;PE
+2615706;Triunfo;Preta;4.24;PE
+2615706;Triunfo;Parda;54.72;PE
+2615805;Tupanatinga;Preta;4.46;PE
+2615805;Tupanatinga;Parda;62.29;PE
+2615904;Tuparetama;Preta;4.8;PE
+2615904;Tuparetama;Parda;56.5;PE
+2616001;Venturosa;Preta;2.58;PE
+2616001;Venturosa;Parda;57.64;PE
+2616100;Verdejante;Preta;4.0;PE
+2616100;Verdejante;Parda;74.7;PE
+2616183;Vertente do Lério;Preta;1.22;PE
+2616183;Vertente do Lério;Parda;50.58;PE
+2616209;Vertentes;Preta;2.54;PE
+2616209;Vertentes;Parda;56.36;PE
+2616308;Vicência;Preta;6.4;PE
+2616308;Vicência;Parda;53.34;PE
+2616407;Vitória de Santo Antão;Preta;5.56;PE
+2616407;Vitória de Santo Antão;Parda;56.02;PE
+2616506;Xexéu;Preta;5.34;PE
+2616506;Xexéu;Parda;62.41;PE
+2800100;Amparo do São Francisco;Preta;11.24;SE
+2800100;Amparo do São Francisco;Parda;68.77;SE
+2800209;Aquidabã;Preta;3.84;SE
+2800209;Aquidabã;Parda;67.21;SE
+2800308;Aracaju;Preta;10.58;SE
+2800308;Aracaju;Parda;55.42;SE
+2800407;Arauá;Preta;14.11;SE
+2800407;Arauá;Parda;66.8;SE
+2800506;Areia Branca;Preta;9.32;SE
+2800506;Areia Branca;Parda;65.24;SE
+2800605;Barra dos Coqueiros;Preta;11.47;SE
+2800605;Barra dos Coqueiros;Parda;69.69;SE
+2800670;Boquim;Preta;8.07;SE
+2800670;Boquim;Parda;68.76;SE
+2800704;Brejo Grande;Preta;13.44;SE
+2800704;Brejo Grande;Parda;61.21;SE
+2801009;Campo do Brito;Preta;5.86;SE
+2801009;Campo do Brito;Parda;62.92;SE
+2801108;Canhoba;Preta;10.5;SE
+2801108;Canhoba;Parda;64.94;SE
+2801207;Canindé de São Francisco;Preta;1.89;SE
+2801207;Canindé de São Francisco;Parda;69.17;SE
+2801306;Capela;Preta;9.94;SE
+2801306;Capela;Parda;68.91;SE
+2801405;Carira;Preta;9.99;SE
+2801405;Carira;Parda;54.0;SE
+2801504;Carmópolis;Preta;9.54;SE
+2801504;Carmópolis;Parda;66.55;SE
+2801603;Cedro de São João;Preta;3.45;SE
+2801603;Cedro de São João;Parda;57.47;SE
+2801702;Cristinápolis;Preta;8.3;SE
+2801702;Cristinápolis;Parda;72.19;SE
+2801900;Cumbe;Preta;8.15;SE
+2801900;Cumbe;Parda;59.33;SE
+2802007;Divina Pastora;Preta;21.3;SE
+2802007;Divina Pastora;Parda;56.53;SE
+2802106;Estância;Preta;8.76;SE
+2802106;Estância;Parda;68.98;SE
+2802205;Feira Nova;Preta;1.47;SE
+2802205;Feira Nova;Parda;72.38;SE
+2802304;Frei Paulo;Preta;4.7;SE
+2802304;Frei Paulo;Parda;65.81;SE
+2802403;Gararu;Preta;2.49;SE
+2802403;Gararu;Parda;69.52;SE
+2802502;General Maynard;Preta;21.52;SE
+2802502;General Maynard;Parda;63.1;SE
+2802601;Gracho Cardoso;Preta;2.49;SE
+2802601;Gracho Cardoso;Parda;62.18;SE
+2802700;Ilha das Flores;Preta;5.0;SE
+2802700;Ilha das Flores;Parda;68.45;SE
+2802809;Indiaroba;Preta;12.74;SE
+2802809;Indiaroba;Parda;70.04;SE
+2802908;Itabaiana;Preta;5.1;SE
+2802908;Itabaiana;Parda;55.63;SE
+2803005;Itabaianinha;Preta;5.67;SE
+2803005;Itabaianinha;Parda;62.7;SE
+2803104;Itabi;Preta;3.4;SE
+2803104;Itabi;Parda;62.78;SE
+2803203;Itaporanga d'Ajuda;Preta;12.04;SE
+2803203;Itaporanga d'Ajuda;Parda;65.35;SE
+2803302;Japaratuba;Preta;6.97;SE
+2803302;Japaratuba;Parda;74.92;SE
+2803401;Japoatã;Preta;4.99;SE
+2803401;Japoatã;Parda;71.23;SE
+2803500;Lagarto;Preta;6.26;SE
+2803500;Lagarto;Parda;61.92;SE
+2803609;Laranjeiras;Preta;18.3;SE
+2803609;Laranjeiras;Parda;64.16;SE
+2803708;Macambira;Preta;2.72;SE
+2803708;Macambira;Parda;75.33;SE
+2803807;Malhada dos Bois;Preta;8.09;SE
+2803807;Malhada dos Bois;Parda;68.59;SE
+2803906;Malhador;Preta;7.59;SE
+2803906;Malhador;Parda;67.29;SE
+2804003;Maruim;Preta;15.24;SE
+2804003;Maruim;Parda;64.03;SE
+2804102;Moita Bonita;Preta;2.66;SE
+2804102;Moita Bonita;Parda;55.22;SE
+2804201;Monte Alegre de Sergipe;Preta;3.96;SE
+2804201;Monte Alegre de Sergipe;Parda;67.37;SE
+2804300;Muribeca;Preta;7.29;SE
+2804300;Muribeca;Parda;69.13;SE
+2804409;Neópolis;Preta;11.24;SE
+2804409;Neópolis;Parda;65.27;SE
+2804458;Nossa Senhora Aparecida;Preta;2.31;SE
+2804458;Nossa Senhora Aparecida;Parda;69.73;SE
+2804508;Nossa Senhora da Glória;Preta;2.28;SE
+2804508;Nossa Senhora da Glória;Parda;60.74;SE
+2804607;Nossa Senhora das Dores;Preta;4.84;SE
+2804607;Nossa Senhora das Dores;Parda;61.48;SE
+2804706;Nossa Senhora de Lourdes;Preta;3.58;SE
+2804706;Nossa Senhora de Lourdes;Parda;65.92;SE
+2804805;Nossa Senhora do Socorro;Preta;13.1;SE
+2804805;Nossa Senhora do Socorro;Parda;60.55;SE
+2804904;Pacatuba;Preta;3.66;SE
+2804904;Pacatuba;Parda;74.78;SE
+2805000;Pedra Mole;Preta;6.51;SE
+2805000;Pedra Mole;Parda;76.54;SE
+2805109;Pedrinhas;Preta;9.27;SE
+2805109;Pedrinhas;Parda;68.48;SE
+2805208;Pinhão;Preta;10.11;SE
+2805208;Pinhão;Parda;73.31;SE
+2805307;Pirambu;Preta;7.29;SE
+2805307;Pirambu;Parda;63.61;SE
+2805406;Poço Redondo;Preta;3.47;SE
+2805406;Poço Redondo;Parda;71.37;SE
+2805505;Poço Verde;Preta;3.25;SE
+2805505;Poço Verde;Parda;64.23;SE
+2805604;Porto da Folha;Preta;5.76;SE
+2805604;Porto da Folha;Parda;57.81;SE
+2805703;Propriá;Preta;8.94;SE
+2805703;Propriá;Parda;56.35;SE
+2805802;Riachão do Dantas;Preta;5.99;SE
+2805802;Riachão do Dantas;Parda;76.34;SE
+2805901;Riachuelo;Preta;12.06;SE
+2805901;Riachuelo;Parda;71.4;SE
+2806008;Ribeirópolis;Preta;2.22;SE
+2806008;Ribeirópolis;Parda;55.5;SE
+2806107;Rosário do Catete;Preta;17.48;SE
+2806107;Rosário do Catete;Parda;65.64;SE
+2806206;Salgado;Preta;7.44;SE
+2806206;Salgado;Parda;67.95;SE
+2806305;Santa Luzia do Itanhy;Preta;16.97;SE
+2806305;Santa Luzia do Itanhy;Parda;61.53;SE
+2806404;Santana do São Francisco;Preta;12.38;SE
+2806404;Santana do São Francisco;Parda;63.67;SE
+2806503;Santa Rosa de Lima;Preta;17.68;SE
+2806503;Santa Rosa de Lima;Parda;61.12;SE
+2806602;Santo Amaro das Brotas;Preta;11.4;SE
+2806602;Santo Amaro das Brotas;Parda;65.11;SE
+2806701;São Cristóvão;Preta;10.91;SE
+2806701;São Cristóvão;Parda;65.91;SE
+2806800;São Domingos;Preta;5.13;SE
+2806800;São Domingos;Parda;71.59;SE
+2806909;São Francisco;Preta;1.67;SE
+2806909;São Francisco;Parda;82.25;SE
+2807006;São Miguel do Aleixo;Preta;4.24;SE
+2807006;São Miguel do Aleixo;Parda;69.85;SE
+2807105;Simão Dias;Preta;5.02;SE
+2807105;Simão Dias;Parda;63.43;SE
+2807204;Siriri;Preta;7.18;SE
+2807204;Siriri;Parda;70.1;SE
+2807303;Telha;Preta;8.14;SE
+2807303;Telha;Parda;58.65;SE
+2807402;Tobias Barreto;Preta;6.1;SE
+2807402;Tobias Barreto;Parda;59.03;SE
+2807501;Tomar do Geru;Preta;7.37;SE
+2807501;Tomar do Geru;Parda;66.19;SE
+2807600;Umbaúba;Preta;12.2;SE
+2807600;Umbaúba;Parda;66.21;SE
+2900108;Abaíra;Preta;4.43;BA
+2900108;Abaíra;Parda;51.77;BA
+2900207;Abaré;Preta;9.6;BA
+2900207;Abaré;Parda;73.95;BA
+2900306;Acajutiba;Preta;13.36;BA
+2900306;Acajutiba;Parda;63.8;BA
+2900355;Adustina;Preta;5.51;BA
+2900355;Adustina;Parda;60.06;BA
+2900405;Água Fria;Preta;18.65;BA
+2900405;Água Fria;Parda;71.41;BA
+2900504;Érico Cardoso;Preta;14.15;BA
+2900504;Érico Cardoso;Parda;52.69;BA
+2900603;Aiquara;Preta;22.97;BA
+2900603;Aiquara;Parda;61.22;BA
+2900702;Alagoinhas;Preta;23.06;BA
+2900702;Alagoinhas;Parda;58.08;BA
+2900801;Alcobaça;Preta;22.36;BA
+2900801;Alcobaça;Parda;61.32;BA
+2900900;Almadina;Preta;20.44;BA
+2900900;Almadina;Parda;60.54;BA
+2901007;Amargosa;Preta;20.24;BA
+2901007;Amargosa;Parda;59.28;BA
+2901106;Amélia Rodrigues;Preta;26.73;BA
+2901106;Amélia Rodrigues;Parda;64.43;BA
+2901155;América Dourada;Preta;19.72;BA
+2901155;América Dourada;Parda;62.21;BA
+2901205;Anagé;Preta;6.85;BA
+2901205;Anagé;Parda;60.49;BA
+2901304;Andaraí;Preta;16.6;BA
+2901304;Andaraí;Parda;71.43;BA
+2901353;Andorinha;Preta;5.8;BA
+2901353;Andorinha;Parda;64.31;BA
+2901403;Angical;Preta;9.45;BA
+2901403;Angical;Parda;61.45;BA
+2901502;Anguera;Preta;15.99;BA
+2901502;Anguera;Parda;75.46;BA
+2901601;Antas;Preta;5.2;BA
+2901601;Antas;Parda;54.75;BA
+2901700;Antônio Cardoso;Preta;55.11;BA
+2901700;Antônio Cardoso;Parda;37.1;BA
+2901809;Antônio Gonçalves;Preta;9.49;BA
+2901809;Antônio Gonçalves;Parda;67.64;BA
+2901908;Aporá;Preta;9.86;BA
+2901908;Aporá;Parda;65.37;BA
+2901957;Apuarema;Preta;9.53;BA
+2901957;Apuarema;Parda;69.36;BA
+2902005;Aracatu;Preta;4.14;BA
+2902005;Aracatu;Parda;61.93;BA
+2902054;Araçás;Preta;24.04;BA
+2902054;Araçás;Parda;62.96;BA
+2902104;Araci;Preta;7.72;BA
+2902104;Araci;Parda;69.01;BA
+2902203;Aramari;Preta;25.02;BA
+2902203;Aramari;Parda;66.69;BA
+2902252;Arataca;Preta;14.37;BA
+2902252;Arataca;Parda;68.19;BA
+2902302;Aratuípe;Preta;23.02;BA
+2902302;Aratuípe;Parda;64.02;BA
+2902401;Aurelino Leal;Preta;22.38;BA
+2902401;Aurelino Leal;Parda;64.31;BA
+2902500;Baianópolis;Preta;4.68;BA
+2902500;Baianópolis;Parda;65.54;BA
+2902609;Baixa Grande;Preta;9.88;BA
+2902609;Baixa Grande;Parda;74.68;BA
+2902658;Banzaê;Preta;2.85;BA
+2902658;Banzaê;Parda;48.43;BA
+2902708;Barra;Preta;13.09;BA
+2902708;Barra;Parda;69.44;BA
+2902807;Barra da Estiva;Preta;5.38;BA
+2902807;Barra da Estiva;Parda;53.76;BA
+2902906;Barra do Choça;Preta;9.63;BA
+2902906;Barra do Choça;Parda;61.12;BA
+2903003;Barra do Mendes;Preta;5.08;BA
+2903003;Barra do Mendes;Parda;66.51;BA
+2903102;Barra do Rocha;Preta;15.84;BA
+2903102;Barra do Rocha;Parda;68.54;BA
+2903201;Barreiras;Preta;9.74;BA
+2903201;Barreiras;Parda;61.48;BA
+2903235;Barro Alto;Preta;4.97;BA
+2903235;Barro Alto;Parda;59.79;BA
+2903276;Barrocas;Preta;16.08;BA
+2903276;Barrocas;Parda;51.24;BA
+2903300;Barro Preto;Preta;15.78;BA
+2903300;Barro Preto;Parda;71.92;BA
+2903409;Belmonte;Preta;11.48;BA
+2903409;Belmonte;Parda;72.56;BA
+2903508;Belo Campo;Preta;6.9;BA
+2903508;Belo Campo;Parda;65.44;BA
+2903607;Biritinga;Preta;17.71;BA
+2903607;Biritinga;Parda;67.65;BA
+2903706;Boa Nova;Preta;10.05;BA
+2903706;Boa Nova;Parda;60.16;BA
+2903805;Boa Vista do Tupim;Preta;20.41;BA
+2903805;Boa Vista do Tupim;Parda;59.85;BA
+2903904;Bom Jesus da Lapa;Preta;19.15;BA
+2903904;Bom Jesus da Lapa;Parda;56.8;BA
+2903953;Bom Jesus da Serra;Preta;5.82;BA
+2903953;Bom Jesus da Serra;Parda;60.68;BA
+2904001;Boninal;Preta;16.8;BA
+2904001;Boninal;Parda;62.5;BA
+2904050;Bonito;Preta;10.56;BA
+2904050;Bonito;Parda;62.73;BA
+2904100;Boquira;Preta;4.74;BA
+2904100;Boquira;Parda;65.21;BA
+2904209;Botuporã;Preta;9.13;BA
+2904209;Botuporã;Parda;62.63;BA
+2904308;Brejões;Preta;15.79;BA
+2904308;Brejões;Parda;60.31;BA
+2904407;Brejolândia;Preta;8.09;BA
+2904407;Brejolândia;Parda;60.76;BA
+2904506;Brotas de Macaúbas;Preta;6.46;BA
+2904506;Brotas de Macaúbas;Parda;61.7;BA
+2904605;Brumado;Preta;5.18;BA
+2904605;Brumado;Parda;51.82;BA
+2904704;Buerarema;Preta;17.16;BA
+2904704;Buerarema;Parda;65.06;BA
+2904753;Buritirama;Preta;3.29;BA
+2904753;Buritirama;Parda;74.16;BA
+2904803;Caatiba;Preta;8.57;BA
+2904803;Caatiba;Parda;68.08;BA
+2904852;Cabaceiras do Paraguaçu;Preta;29.31;BA
+2904852;Cabaceiras do Paraguaçu;Parda;58.7;BA
+2904902;Cachoeira;Preta;38.3;BA
+2904902;Cachoeira;Parda;48.73;BA
+2905008;Caculé;Preta;5.36;BA
+2905008;Caculé;Parda;55.07;BA
+2905107;Caém;Preta;15.15;BA
+2905107;Caém;Parda;68.01;BA
+2905156;Caetanos;Preta;2.85;BA
+2905156;Caetanos;Parda;61.0;BA
+2905206;Caetité;Preta;6.92;BA
+2905206;Caetité;Parda;52.06;BA
+2905305;Cafarnaum;Preta;8.32;BA
+2905305;Cafarnaum;Parda;73.38;BA
+2905404;Cairu;Preta;17.77;BA
+2905404;Cairu;Parda;66.52;BA
+2905503;Caldeirão Grande;Preta;8.45;BA
+2905503;Caldeirão Grande;Parda;72.36;BA
+2905602;Camacan;Preta;18.1;BA
+2905602;Camacan;Parda;63.31;BA
+2905701;Camaçari;Preta;21.91;BA
+2905701;Camaçari;Parda;59.41;BA
+2905800;Camamu;Preta;31.85;BA
+2905800;Camamu;Parda;53.48;BA
+2905909;Campo Alegre de Lourdes;Preta;9.15;BA
+2905909;Campo Alegre de Lourdes;Parda;65.78;BA
+2906006;Campo Formoso;Preta;12.21;BA
+2906006;Campo Formoso;Parda;61.84;BA
+2906105;Canápolis;Preta;5.24;BA
+2906105;Canápolis;Parda;53.63;BA
+2906204;Canarana;Preta;7.59;BA
+2906204;Canarana;Parda;67.94;BA
+2906303;Canavieiras;Preta;13.39;BA
+2906303;Canavieiras;Parda;67.42;BA
+2906402;Candeal;Preta;22.17;BA
+2906402;Candeal;Parda;64.91;BA
+2906501;Candeias;Preta;27.77;BA
+2906501;Candeias;Parda;61.4;BA
+2906600;Candiba;Preta;6.76;BA
+2906600;Candiba;Parda;60.03;BA
+2906709;Cândido Sales;Preta;5.56;BA
+2906709;Cândido Sales;Parda;66.36;BA
+2906808;Cansanção;Preta;5.54;BA
+2906808;Cansanção;Parda;70.15;BA
+2906824;Canudos;Preta;6.78;BA
+2906824;Canudos;Parda;65.64;BA
+2906857;Capela do Alto Alegre;Preta;8.6;BA
+2906857;Capela do Alto Alegre;Parda;53.86;BA
+2906873;Capim Grosso;Preta;12.18;BA
+2906873;Capim Grosso;Parda;57.63;BA
+2906899;Caraíbas;Preta;3.26;BA
+2906899;Caraíbas;Parda;56.56;BA
+2906907;Caravelas;Preta;18.75;BA
+2906907;Caravelas;Parda;65.31;BA
+2907004;Cardeal da Silva;Preta;26.85;BA
+2907004;Cardeal da Silva;Parda;59.63;BA
+2907103;Carinhanha;Preta;10.95;BA
+2907103;Carinhanha;Parda;66.94;BA
+2907202;Casa Nova;Preta;7.34;BA
+2907202;Casa Nova;Parda;59.11;BA
+2907301;Castro Alves;Preta;22.28;BA
+2907301;Castro Alves;Parda;64.84;BA
+2907400;Catolândia;Preta;7.85;BA
+2907400;Catolândia;Parda;64.25;BA
+2907509;Catu;Preta;18.58;BA
+2907509;Catu;Parda;66.74;BA
+2907558;Caturama;Preta;5.36;BA
+2907558;Caturama;Parda;50.79;BA
+2907608;Central;Preta;9.27;BA
+2907608;Central;Parda;64.19;BA
+2907707;Chorrochó;Preta;11.61;BA
+2907707;Chorrochó;Parda;70.84;BA
+2907806;Cícero Dantas;Preta;6.09;BA
+2907806;Cícero Dantas;Parda;53.76;BA
+2907905;Cipó;Preta;10.42;BA
+2907905;Cipó;Parda;64.26;BA
+2908002;Coaraci;Preta;14.16;BA
+2908002;Coaraci;Parda;66.25;BA
+2908101;Cocos;Preta;4.42;BA
+2908101;Cocos;Parda;54.86;BA
+2908200;Conceição da Feira;Preta;41.27;BA
+2908200;Conceição da Feira;Parda;50.34;BA
+2908309;Conceição do Almeida;Preta;29.75;BA
+2908309;Conceição do Almeida;Parda;59.78;BA
+2908408;Conceição do Coité;Preta;15.04;BA
+2908408;Conceição do Coité;Parda;56.35;BA
+2908507;Conceição do Jacuípe;Preta;29.46;BA
+2908507;Conceição do Jacuípe;Parda;59.64;BA
+2908606;Conde;Preta;20.19;BA
+2908606;Conde;Parda;64.04;BA
+2908705;Condeúba;Preta;3.92;BA
+2908705;Condeúba;Parda;65.43;BA
+2908804;Contendas do Sincorá;Preta;9.35;BA
+2908804;Contendas do Sincorá;Parda;64.15;BA
+2908903;Coração de Maria;Preta;26.18;BA
+2908903;Coração de Maria;Parda;62.17;BA
+2909000;Cordeiros;Preta;2.24;BA
+2909000;Cordeiros;Parda;63.94;BA
+2909109;Coribe;Preta;5.79;BA
+2909109;Coribe;Parda;63.83;BA
+2909208;Coronel João Sá;Preta;2.64;BA
+2909208;Coronel João Sá;Parda;64.7;BA
+2909307;Correntina;Preta;10.06;BA
+2909307;Correntina;Parda;60.67;BA
+2909406;Cotegipe;Preta;8.25;BA
+2909406;Cotegipe;Parda;67.69;BA
+2909505;Cravolândia;Preta;15.05;BA
+2909505;Cravolândia;Parda;61.11;BA
+2909604;Crisópolis;Preta;4.86;BA
+2909604;Crisópolis;Parda;68.49;BA
+2909703;Cristópolis;Preta;7.52;BA
+2909703;Cristópolis;Parda;57.5;BA
+2909802;Cruz das Almas;Preta;25.89;BA
+2909802;Cruz das Almas;Parda;58.92;BA
+2909901;Curaçá;Preta;7.77;BA
+2909901;Curaçá;Parda;70.49;BA
+2910008;Dário Meira;Preta;16.01;BA
+2910008;Dário Meira;Parda;65.25;BA
+2910057;Dias d'Ávila;Preta;22.19;BA
+2910057;Dias d'Ávila;Parda;57.81;BA
+2910107;Dom Basílio;Preta;1.32;BA
+2910107;Dom Basílio;Parda;43.77;BA
+2910206;Dom Macedo Costa;Preta;22.16;BA
+2910206;Dom Macedo Costa;Parda;60.0;BA
+2910305;Elísio Medrado;Preta;18.5;BA
+2910305;Elísio Medrado;Parda;53.56;BA
+2910404;Encruzilhada;Preta;6.57;BA
+2910404;Encruzilhada;Parda;67.55;BA
+2910503;Entre Rios;Preta;19.93;BA
+2910503;Entre Rios;Parda;65.34;BA
+2910602;Esplanada;Preta;19.48;BA
+2910602;Esplanada;Parda;60.32;BA
+2910701;Euclides da Cunha;Preta;5.57;BA
+2910701;Euclides da Cunha;Parda;69.83;BA
+2910727;Eunápolis;Preta;12.23;BA
+2910727;Eunápolis;Parda;59.26;BA
+2910750;Fátima;Preta;4.97;BA
+2910750;Fátima;Parda;57.07;BA
+2910776;Feira da Mata;Preta;7.18;BA
+2910776;Feira da Mata;Parda;54.09;BA
+2910800;Feira de Santana;Preta;23.03;BA
+2910800;Feira de Santana;Parda;55.87;BA
+2910859;Filadélfia;Preta;9.6;BA
+2910859;Filadélfia;Parda;68.96;BA
+2910909;Firmino Alves;Preta;10.88;BA
+2910909;Firmino Alves;Parda;61.81;BA
+2911006;Floresta Azul;Preta;11.02;BA
+2911006;Floresta Azul;Parda;66.72;BA
+2911105;Formosa do Rio Preto;Preta;9.5;BA
+2911105;Formosa do Rio Preto;Parda;71.4;BA
+2911204;Gandu;Preta;14.9;BA
+2911204;Gandu;Parda;66.57;BA
+2911253;Gavião;Preta;11.37;BA
+2911253;Gavião;Parda;59.79;BA
+2911303;Gentio do Ouro;Preta;5.18;BA
+2911303;Gentio do Ouro;Parda;53.67;BA
+2911402;Glória;Preta;5.17;BA
+2911402;Glória;Parda;56.32;BA
+2911501;Gongogi;Preta;21.09;BA
+2911501;Gongogi;Parda;64.43;BA
+2911600;Governador Mangabeira;Preta;31.38;BA
+2911600;Governador Mangabeira;Parda;59.16;BA
+2911659;Guajeru;Preta;3.25;BA
+2911659;Guajeru;Parda;69.99;BA
+2911709;Guanambi;Preta;9.3;BA
+2911709;Guanambi;Parda;51.46;BA
+2911808;Guaratinga;Preta;8.56;BA
+2911808;Guaratinga;Parda;70.45;BA
+2911857;Heliópolis;Preta;6.71;BA
+2911857;Heliópolis;Parda;52.7;BA
+2911907;Iaçu;Preta;13.31;BA
+2911907;Iaçu;Parda;68.78;BA
+2912004;Ibiassucê;Preta;8.24;BA
+2912004;Ibiassucê;Parda;48.15;BA
+2912103;Ibicaraí;Preta;10.1;BA
+2912103;Ibicaraí;Parda;65.13;BA
+2912202;Ibicoara;Preta;10.44;BA
+2912202;Ibicoara;Parda;67.21;BA
+2912301;Ibicuí;Preta;8.64;BA
+2912301;Ibicuí;Parda;64.26;BA
+2912400;Ibipeba;Preta;12.99;BA
+2912400;Ibipeba;Parda;56.51;BA
+2912509;Ibipitanga;Preta;3.55;BA
+2912509;Ibipitanga;Parda;50.04;BA
+2912608;Ibiquera;Preta;9.63;BA
+2912608;Ibiquera;Parda;72.87;BA
+2912707;Ibirapitanga;Preta;30.09;BA
+2912707;Ibirapitanga;Parda;53.71;BA
+2912806;Ibirapuã;Preta;12.45;BA
+2912806;Ibirapuã;Parda;59.04;BA
+2912905;Ibirataia;Preta;10.37;BA
+2912905;Ibirataia;Parda;73.92;BA
+2913002;Ibitiara;Preta;12.85;BA
+2913002;Ibitiara;Parda;65.59;BA
+2913101;Ibititá;Preta;13.98;BA
+2913101;Ibititá;Parda;55.81;BA
+2913200;Ibotirama;Preta;13.01;BA
+2913200;Ibotirama;Parda;65.08;BA
+2913309;Ichu;Preta;19.62;BA
+2913309;Ichu;Parda;48.49;BA
+2913408;Igaporã;Preta;11.5;BA
+2913408;Igaporã;Parda;48.66;BA
+2913457;Igrapiúna;Preta;34.75;BA
+2913457;Igrapiúna;Parda;49.8;BA
+2913507;Iguaí;Preta;7.31;BA
+2913507;Iguaí;Parda;63.78;BA
+2913606;Ilhéus;Preta;18.16;BA
+2913606;Ilhéus;Parda;59.63;BA
+2913705;Inhambupe;Preta;16.74;BA
+2913705;Inhambupe;Parda;62.74;BA
+2913804;Ipecaetá;Preta;18.34;BA
+2913804;Ipecaetá;Parda;63.28;BA
+2913903;Ipiaú;Preta;14.54;BA
+2913903;Ipiaú;Parda;66.44;BA
+2914000;Ipirá;Preta;13.88;BA
+2914000;Ipirá;Parda;64.67;BA
+2914109;Ipupiara;Preta;3.46;BA
+2914109;Ipupiara;Parda;43.49;BA
+2914208;Irajuba;Preta;9.58;BA
+2914208;Irajuba;Parda;63.36;BA
+2914307;Iramaia;Preta;12.45;BA
+2914307;Iramaia;Parda;63.48;BA
+2914406;Iraquara;Preta;7.64;BA
+2914406;Iraquara;Parda;72.31;BA
+2914505;Irará;Preta;30.63;BA
+2914505;Irará;Parda;60.67;BA
+2914604;Irecê;Preta;10.81;BA
+2914604;Irecê;Parda;55.55;BA
+2914653;Itabela;Preta;11.63;BA
+2914653;Itabela;Parda;67.57;BA
+2914703;Itaberaba;Preta;16.41;BA
+2914703;Itaberaba;Parda;60.59;BA
+2914802;Itabuna;Preta;13.96;BA
+2914802;Itabuna;Parda;62.7;BA
+2914901;Itacaré;Preta;27.21;BA
+2914901;Itacaré;Parda;58.37;BA
+2915007;Itaeté;Preta;22.92;BA
+2915007;Itaeté;Parda;59.71;BA
+2915106;Itagi;Preta;9.82;BA
+2915106;Itagi;Parda;70.07;BA
+2915205;Itagibá;Preta;17.05;BA
+2915205;Itagibá;Parda;60.1;BA
+2915304;Itagimirim;Preta;11.1;BA
+2915304;Itagimirim;Parda;64.51;BA
+2915353;Itaguaçu da Bahia;Preta;11.35;BA
+2915353;Itaguaçu da Bahia;Parda;67.04;BA
+2915403;Itaju do Colônia;Preta;14.85;BA
+2915403;Itaju do Colônia;Parda;59.45;BA
+2915502;Itajuípe;Preta;13.48;BA
+2915502;Itajuípe;Parda;68.99;BA
+2915601;Itamaraju;Preta;6.63;BA
+2915601;Itamaraju;Parda;76.73;BA
+2915700;Itamari;Preta;24.14;BA
+2915700;Itamari;Parda;57.28;BA
+2915809;Itambé;Preta;13.97;BA
+2915809;Itambé;Parda;60.22;BA
+2915908;Itanagra;Preta;24.05;BA
+2915908;Itanagra;Parda;65.67;BA
+2916005;Itanhém;Preta;6.94;BA
+2916005;Itanhém;Parda;62.68;BA
+2916104;Itaparica;Preta;22.83;BA
+2916104;Itaparica;Parda;67.08;BA
+2916203;Itapé;Preta;15.02;BA
+2916203;Itapé;Parda;65.58;BA
+2916302;Itapebi;Preta;18.53;BA
+2916302;Itapebi;Parda;60.95;BA
+2916401;Itapetinga;Preta;11.33;BA
+2916401;Itapetinga;Parda;59.94;BA
+2916500;Itapicuru;Preta;5.37;BA
+2916500;Itapicuru;Parda;75.85;BA
+2916609;Itapitanga;Preta;12.21;BA
+2916609;Itapitanga;Parda;70.73;BA
+2916708;Itaquara;Preta;11.86;BA
+2916708;Itaquara;Parda;62.95;BA
+2916807;Itarantim;Preta;7.9;BA
+2916807;Itarantim;Parda;63.12;BA
+2916856;Itatim;Preta;12.42;BA
+2916856;Itatim;Parda;62.77;BA
+2916906;Itiruçu;Preta;11.7;BA
+2916906;Itiruçu;Parda;65.29;BA
+2917003;Itiúba;Preta;8.32;BA
+2917003;Itiúba;Parda;71.58;BA
+2917102;Itororó;Preta;10.17;BA
+2917102;Itororó;Parda;68.31;BA
+2917201;Ituaçu;Preta;6.95;BA
+2917201;Ituaçu;Parda;52.23;BA
+2917300;Ituberá;Preta;24.84;BA
+2917300;Ituberá;Parda;58.14;BA
+2917334;Iuiu;Preta;11.04;BA
+2917334;Iuiu;Parda;61.15;BA
+2917359;Jaborandi;Preta;8.17;BA
+2917359;Jaborandi;Parda;61.48;BA
+2917409;Jacaraci;Preta;2.18;BA
+2917409;Jacaraci;Parda;58.84;BA
+2917508;Jacobina;Preta;13.87;BA
+2917508;Jacobina;Parda;62.01;BA
+2917607;Jaguaquara;Preta;14.45;BA
+2917607;Jaguaquara;Parda;58.22;BA
+2917706;Jaguarari;Preta;5.91;BA
+2917706;Jaguarari;Parda;67.83;BA
+2917805;Jaguaripe;Preta;27.63;BA
+2917805;Jaguaripe;Parda;61.99;BA
+2917904;Jandaíra;Preta;4.92;BA
+2917904;Jandaíra;Parda;85.91;BA
+2918001;Jequié;Preta;12.55;BA
+2918001;Jequié;Parda;60.31;BA
+2918100;Jeremoabo;Preta;7.37;BA
+2918100;Jeremoabo;Parda;65.41;BA
+2918209;Jiquiriçá;Preta;21.21;BA
+2918209;Jiquiriçá;Parda;57.14;BA
+2918308;Jitaúna;Preta;14.75;BA
+2918308;Jitaúna;Parda;65.83;BA
+2918357;João Dourado;Preta;10.22;BA
+2918357;João Dourado;Parda;62.51;BA
+2918407;Juazeiro;Preta;11.27;BA
+2918407;Juazeiro;Parda;61.62;BA
+2918456;Jucuruçu;Preta;1.97;BA
+2918456;Jucuruçu;Parda;80.63;BA
+2918506;Jussara;Preta;10.38;BA
+2918506;Jussara;Parda;61.02;BA
+2918555;Jussari;Preta;14.61;BA
+2918555;Jussari;Parda;67.13;BA
+2918605;Jussiape;Preta;6.32;BA
+2918605;Jussiape;Parda;49.51;BA
+2918704;Lafaiete Coutinho;Preta;16.22;BA
+2918704;Lafaiete Coutinho;Parda;61.08;BA
+2918753;Lagoa Real;Preta;7.7;BA
+2918753;Lagoa Real;Parda;45.49;BA
+2918803;Laje;Preta;30.34;BA
+2918803;Laje;Parda;51.71;BA
+2918902;Lajedão;Preta;6.99;BA
+2918902;Lajedão;Parda;66.54;BA
+2919009;Lajedinho;Preta;13.0;BA
+2919009;Lajedinho;Parda;67.75;BA
+2919058;Lajedo do Tabocal;Preta;8.97;BA
+2919058;Lajedo do Tabocal;Parda;63.49;BA
+2919108;Lamarão;Preta;18.67;BA
+2919108;Lamarão;Parda;69.51;BA
+2919157;Lapão;Preta;14.18;BA
+2919157;Lapão;Parda;59.19;BA
+2919207;Lauro de Freitas;Preta;24.75;BA
+2919207;Lauro de Freitas;Parda;50.88;BA
+2919306;Lençóis;Preta;19.26;BA
+2919306;Lençóis;Parda;67.2;BA
+2919405;Licínio de Almeida;Preta;5.17;BA
+2919405;Licínio de Almeida;Parda;56.91;BA
+2919504;Livramento de Nossa Senhora;Preta;8.77;BA
+2919504;Livramento de Nossa Senhora;Parda;49.09;BA
+2919553;Luís Eduardo Magalhães;Preta;6.81;BA
+2919553;Luís Eduardo Magalhães;Parda;59.01;BA
+2919603;Macajuba;Preta;9.91;BA
+2919603;Macajuba;Parda;67.82;BA
+2919702;Macarani;Preta;8.74;BA
+2919702;Macarani;Parda;59.58;BA
+2919801;Macaúbas;Preta;7.53;BA
+2919801;Macaúbas;Parda;53.78;BA
+2919900;Macururé;Preta;11.96;BA
+2919900;Macururé;Parda;63.69;BA
+2919926;Madre de Deus;Preta;15.82;BA
+2919926;Madre de Deus;Parda;71.79;BA
+2919959;Maetinga;Preta;6.17;BA
+2919959;Maetinga;Parda;62.81;BA
+2920007;Maiquinique;Preta;6.15;BA
+2920007;Maiquinique;Parda;66.55;BA
+2920106;Mairi;Preta;8.2;BA
+2920106;Mairi;Parda;67.88;BA
+2920205;Malhada;Preta;10.62;BA
+2920205;Malhada;Parda;78.15;BA
+2920304;Malhada de Pedras;Preta;4.19;BA
+2920304;Malhada de Pedras;Parda;50.57;BA
+2920403;Manoel Vitorino;Preta;5.03;BA
+2920403;Manoel Vitorino;Parda;60.98;BA
+2920452;Mansidão;Preta;8.35;BA
+2920452;Mansidão;Parda;80.85;BA
+2920502;Maracás;Preta;9.79;BA
+2920502;Maracás;Parda;59.51;BA
+2920601;Maragogipe;Preta;22.65;BA
+2920601;Maragogipe;Parda;59.94;BA
+2920700;Maraú;Preta;30.6;BA
+2920700;Maraú;Parda;57.79;BA
+2920809;Marcionílio Souza;Preta;12.45;BA
+2920809;Marcionílio Souza;Parda;73.19;BA
+2920908;Mascote;Preta;14.2;BA
+2920908;Mascote;Parda;67.0;BA
+2921005;Mata de São João;Preta;24.43;BA
+2921005;Mata de São João;Parda;62.14;BA
+2921054;Matina;Preta;13.11;BA
+2921054;Matina;Parda;59.08;BA
+2921104;Medeiros Neto;Preta;6.43;BA
+2921104;Medeiros Neto;Parda;66.91;BA
+2921203;Miguel Calmon;Preta;11.06;BA
+2921203;Miguel Calmon;Parda;67.69;BA
+2921302;Milagres;Preta;8.66;BA
+2921302;Milagres;Parda;67.26;BA
+2921401;Mirangaba;Preta;16.25;BA
+2921401;Mirangaba;Parda;63.35;BA
+2921450;Mirante;Preta;2.82;BA
+2921450;Mirante;Parda;57.74;BA
+2921500;Monte Santo;Preta;4.83;BA
+2921500;Monte Santo;Parda;56.19;BA
+2921609;Morpará;Preta;3.9;BA
+2921609;Morpará;Parda;71.17;BA
+2921708;Morro do Chapéu;Preta;16.19;BA
+2921708;Morro do Chapéu;Parda;60.66;BA
+2921807;Mortugaba;Preta;5.42;BA
+2921807;Mortugaba;Parda;62.41;BA
+2921906;Mucugê;Preta;10.9;BA
+2921906;Mucugê;Parda;65.35;BA
+2922003;Mucuri;Preta;18.05;BA
+2922003;Mucuri;Parda;59.07;BA
+2922052;Mulungu do Morro;Preta;5.34;BA
+2922052;Mulungu do Morro;Parda;71.53;BA
+2922102;Mundo Novo;Preta;9.79;BA
+2922102;Mundo Novo;Parda;69.57;BA
+2922201;Muniz Ferreira;Preta;21.62;BA
+2922201;Muniz Ferreira;Parda;60.85;BA
+2922250;Muquém do São Francisco;Preta;11.8;BA
+2922250;Muquém do São Francisco;Parda;69.95;BA
+2922300;Muritiba;Preta;26.32;BA
+2922300;Muritiba;Parda;59.94;BA
+2922409;Mutuípe;Preta;23.08;BA
+2922409;Mutuípe;Parda;55.96;BA
+2922508;Nazaré;Preta;23.19;BA
+2922508;Nazaré;Parda;61.02;BA
+2922607;Nilo Peçanha;Preta;15.13;BA
+2922607;Nilo Peçanha;Parda;70.81;BA
+2922656;Nordestina;Preta;2.76;BA
+2922656;Nordestina;Parda;73.34;BA
+2922706;Nova Canaã;Preta;11.11;BA
+2922706;Nova Canaã;Parda;60.32;BA
+2922730;Nova Fátima;Preta;7.82;BA
+2922730;Nova Fátima;Parda;67.24;BA
+2922755;Nova Ibiá;Preta;24.3;BA
+2922755;Nova Ibiá;Parda;57.57;BA
+2922805;Nova Itarana;Preta;12.8;BA
+2922805;Nova Itarana;Parda;64.96;BA
+2922854;Nova Redenção;Preta;18.33;BA
+2922854;Nova Redenção;Parda;65.58;BA
+2922904;Nova Soure;Preta;10.5;BA
+2922904;Nova Soure;Parda;71.28;BA
+2923001;Nova Viçosa;Preta;17.5;BA
+2923001;Nova Viçosa;Parda;58.47;BA
+2923035;Novo Horizonte;Preta;8.47;BA
+2923035;Novo Horizonte;Parda;52.63;BA
+2923050;Novo Triunfo;Preta;8.38;BA
+2923050;Novo Triunfo;Parda;52.13;BA
+2923100;Olindina;Preta;7.56;BA
+2923100;Olindina;Parda;71.47;BA
+2923209;Oliveira dos Brejinhos;Preta;5.53;BA
+2923209;Oliveira dos Brejinhos;Parda;70.56;BA
+2923308;Ouriçangas;Preta;38.06;BA
+2923308;Ouriçangas;Parda;51.86;BA
+2923357;Ourolândia;Preta;13.64;BA
+2923357;Ourolândia;Parda;63.51;BA
+2923407;Palmas de Monte Alto;Preta;14.04;BA
+2923407;Palmas de Monte Alto;Parda;55.98;BA
+2923506;Palmeiras;Preta;15.41;BA
+2923506;Palmeiras;Parda;67.26;BA
+2923605;Paramirim;Preta;8.66;BA
+2923605;Paramirim;Parda;55.38;BA
+2923704;Paratinga;Preta;12.41;BA
+2923704;Paratinga;Parda;68.69;BA
+2923803;Paripiranga;Preta;5.28;BA
+2923803;Paripiranga;Parda;56.02;BA
+2923902;Pau Brasil;Preta;10.59;BA
+2923902;Pau Brasil;Parda;49.59;BA
+2924009;Paulo Afonso;Preta;5.38;BA
+2924009;Paulo Afonso;Parda;60.69;BA
+2924058;Pé de Serra;Preta;8.39;BA
+2924058;Pé de Serra;Parda;63.9;BA
+2924108;Pedrão;Preta;30.9;BA
+2924108;Pedrão;Parda;61.93;BA
+2924207;Pedro Alexandre;Preta;5.02;BA
+2924207;Pedro Alexandre;Parda;79.11;BA
+2924306;Piatã;Preta;10.45;BA
+2924306;Piatã;Parda;56.89;BA
+2924405;Pilão Arcado;Preta;7.17;BA
+2924405;Pilão Arcado;Parda;69.89;BA
+2924504;Pindaí;Preta;5.8;BA
+2924504;Pindaí;Parda;70.24;BA
+2924603;Pindobaçu;Preta;11.87;BA
+2924603;Pindobaçu;Parda;60.69;BA
+2924652;Pintadas;Preta;10.52;BA
+2924652;Pintadas;Parda;71.34;BA
+2924678;Piraí do Norte;Preta;17.44;BA
+2924678;Piraí do Norte;Parda;66.18;BA
+2924702;Piripá;Preta;4.36;BA
+2924702;Piripá;Parda;73.85;BA
+2924801;Piritiba;Preta;10.27;BA
+2924801;Piritiba;Parda;67.13;BA
+2924900;Planaltino;Preta;12.26;BA
+2924900;Planaltino;Parda;60.04;BA
+2925006;Planalto;Preta;5.57;BA
+2925006;Planalto;Parda;62.28;BA
+2925105;Poções;Preta;7.42;BA
+2925105;Poções;Parda;61.61;BA
+2925204;Pojuca;Preta;24.68;BA
+2925204;Pojuca;Parda;59.46;BA
+2925253;Ponto Novo;Preta;6.41;BA
+2925253;Ponto Novo;Parda;71.24;BA
+2925303;Porto Seguro;Preta;12.64;BA
+2925303;Porto Seguro;Parda;59.65;BA
+2925402;Potiraguá;Preta;15.82;BA
+2925402;Potiraguá;Parda;61.14;BA
+2925501;Prado;Preta;15.1;BA
+2925501;Prado;Parda;62.6;BA
+2925600;Presidente Dutra;Preta;6.99;BA
+2925600;Presidente Dutra;Parda;59.98;BA
+2925709;Presidente Jânio Quadros;Preta;3.36;BA
+2925709;Presidente Jânio Quadros;Parda;58.86;BA
+2925758;Presidente Tancredo Neves;Preta;15.65;BA
+2925758;Presidente Tancredo Neves;Parda;63.66;BA
+2925808;Queimadas;Preta;7.49;BA
+2925808;Queimadas;Parda;66.63;BA
+2925907;Quijingue;Preta;2.47;BA
+2925907;Quijingue;Parda;80.19;BA
+2925931;Quixabeira;Preta;7.5;BA
+2925931;Quixabeira;Parda;70.08;BA
+2925956;Rafael Jambeiro;Preta;11.25;BA
+2925956;Rafael Jambeiro;Parda;70.05;BA
+2926004;Remanso;Preta;10.69;BA
+2926004;Remanso;Parda;57.45;BA
+2926103;Retirolândia;Preta;10.25;BA
+2926103;Retirolândia;Parda;57.84;BA
+2926202;Riachão das Neves;Preta;9.51;BA
+2926202;Riachão das Neves;Parda;75.41;BA
+2926301;Riachão do Jacuípe;Preta;14.0;BA
+2926301;Riachão do Jacuípe;Parda;59.59;BA
+2926400;Riacho de Santana;Preta;10.85;BA
+2926400;Riacho de Santana;Parda;48.11;BA
+2926509;Ribeira do Amparo;Preta;4.99;BA
+2926509;Ribeira do Amparo;Parda;74.17;BA
+2926608;Ribeira do Pombal;Preta;8.65;BA
+2926608;Ribeira do Pombal;Parda;58.14;BA
+2926657;Ribeirão do Largo;Preta;8.48;BA
+2926657;Ribeirão do Largo;Parda;64.74;BA
+2926707;Rio de Contas;Preta;15.92;BA
+2926707;Rio de Contas;Parda;37.1;BA
+2926806;Rio do Antônio;Preta;3.47;BA
+2926806;Rio do Antônio;Parda;49.34;BA
+2926905;Rio do Pires;Preta;4.12;BA
+2926905;Rio do Pires;Parda;47.09;BA
+2927002;Rio Real;Preta;6.12;BA
+2927002;Rio Real;Parda;69.14;BA
+2927101;Rodelas;Preta;10.24;BA
+2927101;Rodelas;Parda;46.9;BA
+2927200;Ruy Barbosa;Preta;14.13;BA
+2927200;Ruy Barbosa;Parda;64.9;BA
+2927309;Salinas da Margarida;Preta;38.15;BA
+2927309;Salinas da Margarida;Parda;52.83;BA
+2927408;Salvador;Preta;27.4;BA
+2927408;Salvador;Parda;51.83;BA
+2927507;Santa Bárbara;Preta;14.56;BA
+2927507;Santa Bárbara;Parda;71.66;BA
+2927606;Santa Brígida;Preta;3.98;BA
+2927606;Santa Brígida;Parda;70.3;BA
+2927705;Santa Cruz Cabrália;Preta;8.07;BA
+2927705;Santa Cruz Cabrália;Parda;58.68;BA
+2927804;Santa Cruz da Vitória;Preta;7.99;BA
+2927804;Santa Cruz da Vitória;Parda;72.91;BA
+2927903;Santa Inês;Preta;13.96;BA
+2927903;Santa Inês;Parda;65.02;BA
+2928000;Santaluz;Preta;8.5;BA
+2928000;Santaluz;Parda;66.64;BA
+2928059;Santa Luzia;Preta;18.65;BA
+2928059;Santa Luzia;Parda;67.22;BA
+2928109;Santa Maria da Vitória;Preta;9.78;BA
+2928109;Santa Maria da Vitória;Parda;59.18;BA
+2928208;Santana;Preta;5.38;BA
+2928208;Santana;Parda;60.61;BA
+2928307;Santanópolis;Preta;26.97;BA
+2928307;Santanópolis;Parda;63.84;BA
+2928406;Santa Rita de Cássia;Preta;7.58;BA
+2928406;Santa Rita de Cássia;Parda;68.43;BA
+2928505;Santa Terezinha;Preta;16.63;BA
+2928505;Santa Terezinha;Parda;62.92;BA
+2928604;Santo Amaro;Preta;37.46;BA
+2928604;Santo Amaro;Parda;51.93;BA
+2928703;Santo Antônio de Jesus;Preta;23.8;BA
+2928703;Santo Antônio de Jesus;Parda;52.65;BA
+2928802;Santo Estêvão;Preta;21.15;BA
+2928802;Santo Estêvão;Parda;64.88;BA
+2928901;São Desidério;Preta;6.81;BA
+2928901;São Desidério;Parda;65.18;BA
+2928950;São Domingos;Preta;7.74;BA
+2928950;São Domingos;Parda;68.93;BA
+2929008;São Félix;Preta;29.28;BA
+2929008;São Félix;Parda;58.16;BA
+2929057;São Félix do Coribe;Preta;7.43;BA
+2929057;São Félix do Coribe;Parda;57.62;BA
+2929107;São Felipe;Preta;17.5;BA
+2929107;São Felipe;Parda;62.17;BA
+2929206;São Francisco do Conde;Preta;39.61;BA
+2929206;São Francisco do Conde;Parda;52.25;BA
+2929255;São Gabriel;Preta;9.28;BA
+2929255;São Gabriel;Parda;62.91;BA
+2929305;São Gonçalo dos Campos;Preta;43.09;BA
+2929305;São Gonçalo dos Campos;Parda;49.38;BA
+2929354;São José da Vitória;Preta;26.5;BA
+2929354;São José da Vitória;Parda;59.53;BA
+2929370;São José do Jacuípe;Preta;9.1;BA
+2929370;São José do Jacuípe;Parda;63.72;BA
+2929404;São Miguel das Matas;Preta;34.58;BA
+2929404;São Miguel das Matas;Parda;44.52;BA
+2929503;São Sebastião do Passé;Preta;31.23;BA
+2929503;São Sebastião do Passé;Parda;56.52;BA
+2929602;Sapeaçu;Preta;27.57;BA
+2929602;Sapeaçu;Parda;58.31;BA
+2929701;Sátiro Dias;Preta;18.64;BA
+2929701;Sátiro Dias;Parda;56.47;BA
+2929750;Saubara;Preta;33.71;BA
+2929750;Saubara;Parda;56.0;BA
+2929800;Saúde;Preta;13.02;BA
+2929800;Saúde;Parda;68.89;BA
+2929909;Seabra;Preta;11.59;BA
+2929909;Seabra;Parda;61.99;BA
+2930006;Sebastião Laranjeiras;Preta;3.59;BA
+2930006;Sebastião Laranjeiras;Parda;75.47;BA
+2930105;Senhor do Bonfim;Preta;8.07;BA
+2930105;Senhor do Bonfim;Parda;62.81;BA
+2930154;Serra do Ramalho;Preta;10.94;BA
+2930154;Serra do Ramalho;Parda;64.94;BA
+2930204;Sento Sé;Preta;10.14;BA
+2930204;Sento Sé;Parda;68.57;BA
+2930303;Serra Dourada;Preta;5.13;BA
+2930303;Serra Dourada;Parda;67.36;BA
+2930402;Serra Preta;Preta;20.08;BA
+2930402;Serra Preta;Parda;66.64;BA
+2930501;Serrinha;Preta;16.96;BA
+2930501;Serrinha;Parda;60.79;BA
+2930600;Serrolândia;Preta;8.57;BA
+2930600;Serrolândia;Parda;66.07;BA
+2930709;Simões Filho;Preta;27.53;BA
+2930709;Simões Filho;Parda;58.24;BA
+2930758;Sítio do Mato;Preta;15.7;BA
+2930758;Sítio do Mato;Parda;65.85;BA
+2930766;Sítio do Quinto;Preta;5.62;BA
+2930766;Sítio do Quinto;Parda;64.09;BA
+2930774;Sobradinho;Preta;11.63;BA
+2930774;Sobradinho;Parda;63.6;BA
+2930808;Souto Soares;Preta;6.99;BA
+2930808;Souto Soares;Parda;65.0;BA
+2930907;Tabocas do Brejo Velho;Preta;6.03;BA
+2930907;Tabocas do Brejo Velho;Parda;62.46;BA
+2931004;Tanhaçu;Preta;3.97;BA
+2931004;Tanhaçu;Parda;56.8;BA
+2931053;Tanque Novo;Preta;5.99;BA
+2931053;Tanque Novo;Parda;55.72;BA
+2931103;Tanquinho;Preta;32.64;BA
+2931103;Tanquinho;Parda;55.33;BA
+2931202;Taperoá;Preta;21.84;BA
+2931202;Taperoá;Parda;66.34;BA
+2931301;Tapiramutá;Preta;10.57;BA
+2931301;Tapiramutá;Parda;71.31;BA
+2931350;Teixeira de Freitas;Preta;10.59;BA
+2931350;Teixeira de Freitas;Parda;59.46;BA
+2931400;Teodoro Sampaio;Preta;19.25;BA
+2931400;Teodoro Sampaio;Parda;70.71;BA
+2931509;Teofilândia;Preta;24.06;BA
+2931509;Teofilândia;Parda;54.67;BA
+2931608;Teolândia;Preta;20.23;BA
+2931608;Teolândia;Parda;65.09;BA
+2931707;Terra Nova;Preta;21.46;BA
+2931707;Terra Nova;Parda;71.12;BA
+2931806;Tremedal;Preta;4.47;BA
+2931806;Tremedal;Parda;63.5;BA
+2931905;Tucano;Preta;6.75;BA
+2931905;Tucano;Parda;58.24;BA
+2932002;Uauá;Preta;5.04;BA
+2932002;Uauá;Parda;60.29;BA
+2932101;Ubaíra;Preta;11.65;BA
+2932101;Ubaíra;Parda;65.22;BA
+2932200;Ubaitaba;Preta;21.2;BA
+2932200;Ubaitaba;Parda;62.48;BA
+2932309;Ubatã;Preta;15.04;BA
+2932309;Ubatã;Parda;70.75;BA
+2932408;Uibaí;Preta;11.08;BA
+2932408;Uibaí;Parda;56.89;BA
+2932457;Umburanas;Preta;5.94;BA
+2932457;Umburanas;Parda;73.8;BA
+2932507;Una;Preta;11.1;BA
+2932507;Una;Parda;77.11;BA
+2932606;Urandi;Preta;4.14;BA
+2932606;Urandi;Parda;67.96;BA
+2932705;Uruçuca;Preta;20.88;BA
+2932705;Uruçuca;Parda;61.42;BA
+2932804;Utinga;Preta;7.92;BA
+2932804;Utinga;Parda;68.88;BA
+2932903;Valença;Preta;20.58;BA
+2932903;Valença;Parda;61.55;BA
+2933000;Valente;Preta;7.48;BA
+2933000;Valente;Parda;61.66;BA
+2933059;Várzea da Roça;Preta;9.61;BA
+2933059;Várzea da Roça;Parda;51.78;BA
+2933109;Várzea do Poço;Preta;5.41;BA
+2933109;Várzea do Poço;Parda;60.58;BA
+2933158;Várzea Nova;Preta;14.35;BA
+2933158;Várzea Nova;Parda;61.56;BA
+2933174;Varzedo;Preta;16.12;BA
+2933174;Varzedo;Parda;64.65;BA
+2933208;Vera Cruz;Preta;26.73;BA
+2933208;Vera Cruz;Parda;62.26;BA
+2933257;Vereda;Preta;7.15;BA
+2933257;Vereda;Parda;62.01;BA
+2933307;Vitória da Conquista;Preta;10.17;BA
+2933307;Vitória da Conquista;Parda;56.82;BA
+2933406;Wagner;Preta;11.23;BA
+2933406;Wagner;Parda;74.35;BA
+2933455;Wanderley;Preta;6.13;BA
+2933455;Wanderley;Parda;65.78;BA
+2933505;Wenceslau Guimarães;Preta;19.54;BA
+2933505;Wenceslau Guimarães;Parda;65.47;BA
+2933604;Xique-Xique;Preta;13.9;BA
+2933604;Xique-Xique;Parda;67.21;BA

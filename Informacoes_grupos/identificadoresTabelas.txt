@@ -1,0 +1,14 @@
+RENDA MÉDIA -> 
+	Renda per capita média (Atlas DH - Censo) - R$, a preços do ano 2010 - Atlas do
+ 	Desenvolvimento Humano (Censo Demográfico) - ADH_RDPC
+
+	Razão entre o somatório da renda de todos os indivíduos residentes em domicílios
+	particulares permanentes e o número total desses indivíduos. Valores em reais de 01/agosto
+	de 2010. Este indicador faz parte do bloco de indicadores que contém nível de renda; de
+	pobreza e de desigualdade de renda. São indicadores utilizados na análise do IDHM
+	(Índice de Desenvolvimento Humano Municipal). Nota: elaborado por PNUD, IPEA e FJP a partir
+	dos microdados de Censos Demográficos do IBGE.
+
+
+EXPECTATIVA ANOS DE ESTUDO ->
+	Expectativa de anos de estudo aos 18 anos de idade (Atlas DH - Censo)
