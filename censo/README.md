@@ -1,0 +1,1 @@
+Nesse repositório a propsta é conter um código que possa trabalhar com diversas bases ao mesmo tempo, essas bases tem mesma origem e mesmas colunas. Nesse caso foram usadas bases do censo como insumo.
