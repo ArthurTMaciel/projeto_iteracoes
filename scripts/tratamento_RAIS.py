@@ -3,7 +3,7 @@
 #
 # OBJETIVO: Capturar dados da RAIS para analise
 #
-# AUTOR: Pedro Borges de Melo Filho
+# AUTOR: Arthur Maciel
 #
 # DATA: 10/06/2024
 # =================================================================================================
